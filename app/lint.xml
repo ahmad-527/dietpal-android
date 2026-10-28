@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <!-- Picasso includes an unused RemoteViews notification target. DietPal only loads
+         into ImageViews and never posts notifications; no notification permission is needed. -->
+    <issue id="NotificationPermission">
+        <ignore regexp=".*com\.squareup\.picasso\.RemoteViewsAction\.NotificationAction.*" />
+    </issue>
+</lint>

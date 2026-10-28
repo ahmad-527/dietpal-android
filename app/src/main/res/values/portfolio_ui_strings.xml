@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ui_activity_gym_text_0" formatted="false">Work towards a better life !</string>
+    <string name="ui_activity_gym_text_1" formatted="false">Mountain Climbers</string>
+    <string name="ui_activity_gym_text_2" formatted="false">Repeat 2 Times</string>
+    <string name="ui_activity_gym_text_3" formatted="false">01:00 MIN</string>
+    <string name="ui_activity_gym_text_4" formatted="false">Basic Crunches</string>
+    <string name="ui_activity_gym_text_5" formatted="false">Repeat 2 Times</string>
+    <string name="ui_activity_gym_text_6" formatted="false">01:00 MIN</string>
+    <string name="ui_activity_gym_text_7" formatted="false">Bench Dips</string>
+    <string name="ui_activity_gym_text_8" formatted="false">Repeat 2 Times</string>
+    <string name="ui_activity_gym_text_9" formatted="false">01:00 MIN</string>
+    <string name="ui_activity_gym_text_10" formatted="false">bicycle crunches</string>
+    <string name="ui_activity_gym_text_11" formatted="false">Repeat 2 Times</string>
+    <string name="ui_activity_gym_text_12" formatted="false">01:00 MIN</string>
+    <string name="ui_activity_gym_text_13" formatted="false">leg raises</string>
+    <string name="ui_activity_gym_text_14" formatted="false">Repeat 2 Times</string>
+    <string name="ui_activity_gym_text_15" formatted="false">01:00 MIN</string>
+    <string name="ui_activity_gym_text_16" formatted="false">Alternative heel touches</string>
+    <string name="ui_activity_gym_text_17" formatted="false">Repeat 2 Times</string>
+    <string name="ui_activity_gym_text_18" formatted="false">01:00 MIN</string>
+    <string name="ui_activity_gym_text_19" formatted="false">Leg Up crunches</string>
+    <string name="ui_activity_gym_text_20" formatted="false">Repeat 2 Times</string>
+    <string name="ui_activity_gym_text_21" formatted="false">01:00 MIN</string>
+    <string name="ui_activity_gym_text_22" formatted="false">Sit ups</string>
+    <string name="ui_activity_gym_text_23" formatted="false">Repeat 2 Times</string>
+    <string name="ui_activity_gym_text_24" formatted="false">01:00 MIN</string>
+    <string name="ui_activity_gym_text_25" formatted="false">alternate v ups</string>
+    <string name="ui_activity_gym_text_26" formatted="false">Repeat 2 Times</string>
+    <string name="ui_activity_gym_text_27" formatted="false">01:00 MIN</string>
+    <string name="ui_activity_gym_text_28" formatted="false">plank rotations</string>
+    <string name="ui_activity_gym_text_29" formatted="false">Repeat 2 Times</string>
+    <string name="ui_activity_gym_text_30" formatted="false">01:00 MIN</string>
+    <string name="ui_activity_gym_text_31" formatted="false">plank with leg lift</string>
+    <string name="ui_activity_gym_text_32" formatted="false">Repeat 2 Times</string>
+    <string name="ui_activity_gym_text_33" formatted="false">01:00 MIN</string>
+    <string name="ui_activity_gym_text_34" formatted="false">russian twists</string>
+    <string name="ui_activity_gym_text_35" formatted="false">Repeat 2 Times</string>
+    <string name="ui_activity_gym_text_36" formatted="false">01:00 MIN</string>
+    <string name="ui_activity_gym_text_37" formatted="false">bridge</string>
+    <string name="ui_activity_gym_text_38" formatted="false">Repeat 2 Times</string>
+    <string name="ui_activity_gym_text_39" formatted="false">01:00 MIN</string>
+    <string name="ui_activity_gym_text_40" formatted="false">vertical leg crunches</string>
+    <string name="ui_activity_gym_text_41" formatted="false">Repeat 2 Times</string>
+    <string name="ui_activity_gym_text_42" formatted="false">01:00 MIN</string>
+    <string name="ui_activity_gym_text_43" formatted="false">alternate toe touches</string>
+    <string name="ui_activity_gym_text_44" formatted="false">Repeat 2 Times</string>
+    <string name="ui_activity_gym_text_45" formatted="false">01:00 MIN</string>
+    <string name="ui_activity_login_text_0" formatted="false">DIET PAL</string>
+    <string name="ui_activity_login_text_1" formatted="false">WELCOME BACK!</string>
+    <string name="ui_activity_login_text_2" formatted="false">Reconnect for a Healthier You - LOG IN Now!</string>
+    <string name="ui_activity_login_hint_3" formatted="false">Enter Password</string>
+    <string name="ui_activity_login_hint_4" formatted="false">Enter Username</string>
+    <string name="ui_activity_login_text_5" formatted="false">LOG IN</string>
+    <string name="ui_activity_login_text_6" formatted="false">Register as a New User</string>
+    <string name="ui_activity_login_text_7" formatted="false">OR</string>
+    <string name="ui_activity_main_text_0" formatted="false">DIET PAL</string>
+    <string name="ui_activity_recipe_details_text_0" formatted="false">Recipe Name</string>
+    <string name="ui_activity_recipe_details_text_1" formatted="false">Source</string>
+    <string name="ui_activity_recipe_details_text_2" formatted="false">Summary</string>
+    <string name="ui_activity_recipe_details_text_3" formatted="false">Similar Recipes</string>
+    <string name="ui_activity_recipe_details_text_4" formatted="false">Ingredients</string>
+    <string name="ui_activity_register_text_0" formatted="false">DIET PAL</string>
+    <string name="ui_activity_register_text_1" formatted="false">Register Now to Get Started!</string>
+    <string name="ui_activity_register_text_2" formatted="false">Embark on a personalised path to Wellness with DIET PAL</string>
+    <string name="ui_activity_register_text_3" formatted="false">Register Now</string>
+    <string name="ui_activity_register_hint_4" formatted="false">Email</string>
+    <string name="ui_activity_register_hint_5" formatted="false">Confirm Password</string>
+    <string name="ui_activity_register_hint_6" formatted="false">Username</string>
+    <string name="ui_activity_register_hint_7" formatted="false"> Password</string>
+    <string name="ui_activity_register_text_8" formatted="false">Login with Existing Account</string>
+    <string name="ui_activity_register_text_9" formatted="false">OR</string>
+    <string name="ui_activity_welcome_text_0" formatted="false">GET STARTED</string>
+    <string name="ui_activity_welcome_text_1" formatted="false">Already a User?</string>
+    <string name="ui_activity_welcome_text_2" formatted="false">Log In</string>
+    <string name="ui_activity_welcome_text_3" formatted="false">DIET PAL</string>
+    <string name="ui_activity_welcome_text_4" formatted="false">A Healthier Lifestyle Awaits</string>
+    <string name="ui_bench_text_0" formatted="false">01:00</string>
+    <string name="ui_bench_text_1" formatted="false">START</string>
+    <string name="ui_bench_text_2" formatted="false">How to perform this exercise?</string>
+    <string name="ui_bicycle_text_0" formatted="false">01:00</string>
+    <string name="ui_bicycle_text_1" formatted="false">START</string>
+    <string name="ui_bicycle_text_2" formatted="false">How to perform this exercise?</string>
+    <string name="ui_bridge_text_0" formatted="false">01:00</string>
+    <string name="ui_bridge_text_1" formatted="false">START</string>
+    <string name="ui_bridge_text_2" formatted="false">How to perform this exercise?</string>
+    <string name="ui_crunches_text_0" formatted="false">01:00</string>
+    <string name="ui_crunches_text_1" formatted="false">START</string>
+    <string name="ui_crunches_text_2" formatted="false">How to perform this exercise?</string>
+    <string name="ui_fragment_about_us_text_0" formatted="false">About DietPal\n\nDietPal is a bachelor coursework application by Ahmad Sajjad Siddiqui. It combines a local account demo, a BMI calculation, timed workout screens and optional recipe browsing.\n\nThis portfolio edition includes documented fixes and replacement artwork prepared in October 2026. The original submission is preserved separately.</string>
+    <string name="ui_fragment_bmi_text_0" formatted="false">CALCULATE YOU BODY MASS INDEX !</string>
+    <string name="ui_fragment_bmi_text_1" formatted="false">Get to know your body better</string>
+    <string name="ui_fragment_bmi_hint_2" formatted="false">Weight (kg)</string>
+    <string name="ui_fragment_bmi_hint_3" formatted="false">Height (cm)</string>
+    <string name="ui_fragment_bmi_text_4" formatted="false">Calculate BMI</string>
+    <string name="ui_fragment_bmi_hint_5" formatted="false">BMI Result</string>
+    <string name="ui_fragment_contact_us_text_0" formatted="false">Project information\n\nDietPal is a coursework portfolio project. Build instructions, supported features and validation details are included in the repository README.\n\nThis demo does not operate a customer-support service.</string>
+    <string name="ui_fragment_home_text_0" formatted="false">HOME</string>
+    <string name="ui_fragment_home_text_1" formatted="false">WELCOME BACK !</string>
+    <string name="ui_fragment_home_text_2" formatted="false">Log Out</string>
+    <string name="ui_fragment_home_text_3" formatted="false">HOME</string>
+    <string name="ui_fragment_home_text_4" formatted="false">BMI CALCULATOR</string>
+    <string name="ui_fragment_home_text_5" formatted="false">MEALS</string>
+    <string name="ui_fragment_home_text_6" formatted="false">WORKOUTS</string>
+    <string name="ui_fragment_privacy_policy_text_0" formatted="false">Data in this demo\n\nA registered username, email address and salted password hash are stored locally on this device. Android cloud backup is disabled for this build.\n\nBMI inputs are used for the current calculation; the app has no BMI-history feature.\n\nWhen a developer configures recipe browsing, search tags, recipe IDs and the configured API key are sent to Spoonacular. Recipe images may be loaded from the image addresses returned by that service.\n\nClear the app storage or uninstall the app to remove its local account data.</string>
+    <string name="ui_fragment_profile_text_0" formatted="false">FRAGMENT PROFILE</string>
+    <string name="ui_fragment_settings_text_0" formatted="false">Settings</string>
+    <string name="ui_fragment_work_text_0" formatted="false">Work towards a better life !</string>
+    <string name="ui_fragment_work_text_1" formatted="false">Mountain Climbers</string>
+    <string name="ui_fragment_work_text_2" formatted="false">Repeat 2 Times</string>
+    <string name="ui_fragment_work_text_3" formatted="false">01:00 MIN</string>
+    <string name="ui_fragment_work_text_4" formatted="false">Basic Crunches</string>
+    <string name="ui_fragment_work_text_5" formatted="false">Repeat 2 Times</string>
+    <string name="ui_fragment_work_text_6" formatted="false">01:00 MIN</string>
+    <string name="ui_fragment_work_text_7" formatted="false">Bench Dips</string>
+    <string name="ui_fragment_work_text_8" formatted="false">Repeat 2 Times</string>
+    <string name="ui_fragment_work_text_9" formatted="false">01:00 MIN</string>
+    <string name="ui_fragment_work_text_10" formatted="false">bicycle crunches</string>
+    <string name="ui_fragment_work_text_11" formatted="false">Repeat 2 Times</string>
+    <string name="ui_fragment_work_text_12" formatted="false">01:00 MIN</string>
+    <string name="ui_fragment_work_text_13" formatted="false">leg raises</string>
+    <string name="ui_fragment_work_text_14" formatted="false">Repeat 2 Times</string>
+    <string name="ui_fragment_work_text_15" formatted="false">01:00 MIN</string>
+    <string name="ui_fragment_work_text_16" formatted="false">Alternative heel touches</string>
+    <string name="ui_fragment_work_text_17" formatted="false">Repeat 2 Times</string>
+    <string name="ui_fragment_work_text_18" formatted="false">01:00 MIN</string>
+    <string name="ui_fragment_work_text_19" formatted="false">Leg Up crunches</string>
+    <string name="ui_fragment_work_text_20" formatted="false">Repeat 2 Times</string>
+    <string name="ui_fragment_work_text_21" formatted="false">01:00 MIN</string>
+    <string name="ui_fragment_work_text_22" formatted="false">Sit ups</string>
+    <string name="ui_fragment_work_text_23" formatted="false">Repeat 2 Times</string>
+    <string name="ui_fragment_work_text_24" formatted="false">01:00 MIN</string>
+    <string name="ui_fragment_work_text_25" formatted="false">alternate v ups</string>
+    <string name="ui_fragment_work_text_26" formatted="false">Repeat 2 Times</string>
+    <string name="ui_fragment_work_text_27" formatted="false">01:00 MIN</string>
+    <string name="ui_fragment_work_text_28" formatted="false">plank rotations</string>
+    <string name="ui_fragment_work_text_29" formatted="false">Repeat 2 Times</string>
+    <string name="ui_fragment_work_text_30" formatted="false">01:00 MIN</string>
+    <string name="ui_fragment_work_text_31" formatted="false">plank with leg lift</string>
+    <string name="ui_fragment_work_text_32" formatted="false">Repeat 2 Times</string>
+    <string name="ui_fragment_work_text_33" formatted="false">01:00 MIN</string>
+    <string name="ui_fragment_work_text_34" formatted="false">russian twists</string>
+    <string name="ui_fragment_work_text_35" formatted="false">Repeat 2 Times</string>
+    <string name="ui_fragment_work_text_36" formatted="false">01:00 MIN</string>
+    <string name="ui_fragment_work_text_37" formatted="false">bridge</string>
+    <string name="ui_fragment_work_text_38" formatted="false">Repeat 2 Times</string>
+    <string name="ui_fragment_work_text_39" formatted="false">01:00 MIN</string>
+    <string name="ui_fragment_work_text_40" formatted="false">vertical leg crunches</string>
+    <string name="ui_fragment_work_text_41" formatted="false">Repeat 2 Times</string>
+    <string name="ui_fragment_work_text_42" formatted="false">01:00 MIN</string>
+    <string name="ui_fragment_work_text_43" formatted="false">alternate toe touches</string>
+    <string name="ui_fragment_work_text_44" formatted="false">Repeat 2 Times</string>
+    <string name="ui_fragment_work_text_45" formatted="false">01:00 MIN</string>
+    <string name="ui_header_text_0" formatted="false">Diet Pal</string>
+    <string name="ui_header_text_1" formatted="false">Navigation Menu</string>
+    <string name="ui_heels_text_0" formatted="false">01:00</string>
+    <string name="ui_heels_text_1" formatted="false">START</string>
+    <string name="ui_heels_text_2" formatted="false">How to perform this exercise?</string>
+    <string name="ui_legcrunches_text_0" formatted="false">01:00</string>
+    <string name="ui_legcrunches_text_1" formatted="false">START</string>
+    <string name="ui_legcrunches_text_2" formatted="false">How to perform this exercise?</string>
+    <string name="ui_legplank_text_0" formatted="false">01:00</string>
+    <string name="ui_legplank_text_1" formatted="false">START</string>
+    <string name="ui_legplank_text_2" formatted="false">How to perform this exercise?</string>
+    <string name="ui_legraises_text_0" formatted="false">01:00</string>
+    <string name="ui_legraises_text_1" formatted="false">START</string>
+    <string name="ui_legraises_text_2" formatted="false">How to perform this exercise?</string>
+    <string name="ui_list_instructions_text_0" formatted="false">Instruction</string>
+    <string name="ui_list_instructions_steps_text_0" formatted="false">1</string>
+    <string name="ui_list_instructions_steps_text_1" formatted="false">Step Name</string>
+    <string name="ui_list_instructions_steps_text_2" formatted="false">Equipments</string>
+    <string name="ui_list_instructions_steps_text_3" formatted="false">Ingredients</string>
+    <string name="ui_list_instructions_step_items_text_0" formatted="false">Item</string>
+    <string name="ui_list_meal_ingredients_text_0" formatted="false">1 pc</string>
+    <string name="ui_list_meal_ingredients_text_1" formatted="false">Chicken</string>
+    <string name="ui_list_random_recipe_text_0" formatted="false">Dish Name</string>
+    <string name="ui_list_random_recipe_text_1" formatted="false">2 Persons</string>
+    <string name="ui_list_random_recipe_text_2" formatted="false">2 Persons</string>
+    <string name="ui_list_random_recipe_text_3" formatted="false">2 Persons</string>
+    <string name="ui_list_similar_recipe_text_0" formatted="false">Similar Name</string>
+    <string name="ui_list_similar_recipe_text_1" formatted="false">Similar Name</string>
+    <string name="ui_mountain_text_0" formatted="false">01:00</string>
+    <string name="ui_mountain_text_1" formatted="false">START</string>
+    <string name="ui_mountain_text_2" formatted="false">How to perform this exercise?</string>
+    <string name="ui_plank_text_0" formatted="false">01:00</string>
+    <string name="ui_plank_text_1" formatted="false">START</string>
+    <string name="ui_plank_text_2" formatted="false">How to perform this exercise?</string>
+    <string name="ui_russian_text_0" formatted="false">01:00</string>
+    <string name="ui_russian_text_1" formatted="false">START</string>
+    <string name="ui_russian_text_2" formatted="false">How to perform this exercise?</string>
+    <string name="ui_situp_text_0" formatted="false">01:00</string>
+    <string name="ui_situp_text_1" formatted="false">START</string>
+    <string name="ui_situp_text_2" formatted="false">How to perform this exercise?</string>
+    <string name="ui_spinner_inner_text_text_0" formatted="false">Dessert</string>
+    <string name="ui_spinner_text_text_0" formatted="false">Menu</string>
+    <string name="ui_toetouch_text_0" formatted="false">01:00</string>
+    <string name="ui_toetouch_text_1" formatted="false">START</string>
+    <string name="ui_toetouch_text_2" formatted="false">How to perform this exercise?</string>
+    <string name="ui_verticalleg_text_0" formatted="false">01:00</string>
+    <string name="ui_verticalleg_text_1" formatted="false">START</string>
+    <string name="ui_verticalleg_text_2" formatted="false">How to perform this exercise?</string>
+    <string name="ui_vups_text_0" formatted="false">01:00</string>
+    <string name="ui_vups_text_1" formatted="false">START</string>
+    <string name="ui_vups_text_2" formatted="false">How to perform this exercise?</string>
+    <string name="portfolio_recipe_title">Recipes</string>
+    <string name="portfolio_recipe_search">Search recipes</string>
+</resources>
