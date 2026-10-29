@@ -1,0 +1,2199 @@
+[
+  {
+    "id": "balanced-berry-yogurt-oats",
+    "title": "Berry yogurt oats",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegetarian",
+    "mealType": "Breakfast",
+    "ingredients": [
+      "50 g Rolled oats, dry",
+      "200 g Plain nonfat Greek yogurt",
+      "80 g Blueberries",
+      "10 g Chia seeds"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "oats",
+        "grams": 50
+      },
+      {
+        "food": "yogurt",
+        "grams": 200
+      },
+      {
+        "food": "blueberry",
+        "grams": 80
+      },
+      {
+        "food": "chia",
+        "grams": 10
+      }
+    ],
+    "steps": [
+      "Mix oats and yogurt with a splash of water. Refrigerate until the oats soften. Top with berries and chia before serving.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "nutrition": {
+      "kcal": 401.7,
+      "protein": 29.201,
+      "carbs": 56.854,
+      "fat": 7.378,
+      "fiber": 10.41
+    }
+  },
+  {
+    "id": "balanced-apple-walnut-oats",
+    "title": "Apple walnut oats",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegetarian",
+    "mealType": "Breakfast",
+    "ingredients": [
+      "50 g Rolled oats, dry",
+      "180 g Skimmed milk, weighed in grams",
+      "120 g Gala apple with skin, core removed",
+      "15 g Unsalted English walnuts"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "oats",
+        "grams": 50
+      },
+      {
+        "food": "milk",
+        "grams": 180
+      },
+      {
+        "food": "apple",
+        "grams": 120
+      },
+      {
+        "food": "walnut",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Simmer the oats in the weighed milk, adding water as needed. Stir until tender. Top with diced apple and chopped walnuts.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "gluten",
+      "milk",
+      "tree nuts"
+    ],
+    "nutrition": {
+      "kcal": 417.2,
+      "protein": 15.2255,
+      "carbs": 61.2505,
+      "fat": 13.3295,
+      "fiber": 8.815
+    }
+  },
+  {
+    "id": "balanced-banana-peanut-porridge",
+    "title": "Banana peanut porridge",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegan",
+    "mealType": "Breakfast",
+    "ingredients": [
+      "60 g Rolled oats, dry",
+      "100 g Banana, peeled weight",
+      "20 g Smooth peanut butter, no added salt",
+      "10 g Chia seeds"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "oats",
+        "grams": 60
+      },
+      {
+        "food": "banana",
+        "grams": 100
+      },
+      {
+        "food": "peanut",
+        "grams": 20
+      },
+      {
+        "food": "chia",
+        "grams": 10
+      }
+    ],
+    "steps": [
+      "Cook the oats with water until soft. Stir in peanut butter, then add sliced banana and chia seeds.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "gluten",
+      "peanut"
+    ],
+    "nutrition": {
+      "kcal": 484.6,
+      "protein": 15.076,
+      "carbs": 72.134,
+      "fat": 17.588,
+      "fiber": 13.1
+    }
+  },
+  {
+    "id": "balanced-egg-avocado-toast",
+    "title": "Egg avocado toast",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegetarian",
+    "mealType": "Breakfast",
+    "ingredients": [
+      "70 g Whole-wheat bread",
+      "100 g Hard-boiled egg, peeled weight",
+      "50 g Avocado flesh",
+      "100 g Tomato, raw",
+      "10 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "bread",
+        "grams": 70
+      },
+      {
+        "food": "egg",
+        "grams": 100
+      },
+      {
+        "food": "avocado",
+        "grams": 50
+      },
+      {
+        "food": "tomato",
+        "grams": 100
+      },
+      {
+        "food": "lemon",
+        "grams": 10
+      }
+    ],
+    "steps": [
+      "Toast the bread. Mash avocado with lemon juice, spread on the toast and add sliced hard-boiled egg. Serve with tomatoes.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "egg",
+      "gluten",
+      "wheat"
+    ],
+    "nutrition": {
+      "kcal": 431.6,
+      "protein": 23.21,
+      "carbs": 39.862,
+      "fat": 20.614,
+      "fiber": 8.78
+    }
+  },
+  {
+    "id": "balanced-cottage-berry-bowl",
+    "title": "Cottage cheese berry bowl",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegetarian",
+    "mealType": "Breakfast",
+    "ingredients": [
+      "200 g Cottage cheese, 1% milkfat",
+      "40 g Rolled oats, dry",
+      "120 g Strawberries, stalks removed",
+      "15 g Unsalted almonds"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "cottage",
+        "grams": 200
+      },
+      {
+        "food": "oats",
+        "grams": 40
+      },
+      {
+        "food": "strawberry",
+        "grams": 120
+      },
+      {
+        "food": "almond",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Spoon cottage cheese into a bowl. Add oats, chopped strawberries and almonds. Mix just before eating.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "gluten",
+      "milk",
+      "tree nuts"
+    ],
+    "nutrition": {
+      "kcal": 420.84999999999997,
+      "protein": 34.0165,
+      "carbs": 44.9685,
+      "fat": 12.4975,
+      "fiber": 8.315
+    }
+  },
+  {
+    "id": "balanced-tofu-breakfast-toast",
+    "title": "Tofu breakfast toast",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegan",
+    "mealType": "Breakfast",
+    "ingredients": [
+      "150 g Firm calcium-set tofu, drained",
+      "60 g Whole-wheat bread",
+      "100 g Red pepper, raw",
+      "50 g Spinach, raw",
+      "5 g Olive oil"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "tofu",
+        "grams": 150
+      },
+      {
+        "food": "bread",
+        "grams": 60
+      },
+      {
+        "food": "pepper",
+        "grams": 100
+      },
+      {
+        "food": "spinach",
+        "grams": 50
+      },
+      {
+        "food": "oil",
+        "grams": 5
+      }
+    ],
+    "steps": [
+      "Crumble the drained tofu. Warm the oil in a pan and stir the tofu with chopped pepper and spinach until hot. Serve with toasted bread.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "gluten",
+      "soy",
+      "wheat"
+    ],
+    "nutrition": {
+      "kcal": 448.9,
+      "protein": 35.795,
+      "carbs": 37.641,
+      "fat": 20.675,
+      "fiber": 10.25
+    }
+  },
+  {
+    "id": "balanced-chickpea-avocado-toast",
+    "title": "Chickpea avocado toast",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegan",
+    "mealType": "Breakfast",
+    "ingredients": [
+      "120 g Chickpeas, cooked and drained without added salt",
+      "50 g Avocado flesh",
+      "70 g Whole-wheat bread",
+      "100 g Cucumber with peel, raw",
+      "10 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "chickpeas",
+        "grams": 120
+      },
+      {
+        "food": "avocado",
+        "grams": 50
+      },
+      {
+        "food": "bread",
+        "grams": 70
+      },
+      {
+        "food": "cucumber",
+        "grams": 100
+      },
+      {
+        "food": "lemon",
+        "grams": 10
+      }
+    ],
+    "steps": [
+      "Mash the cooked chickpeas with avocado and lemon juice. Spread over toasted bread and serve with sliced cucumber.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "gluten",
+      "wheat"
+    ],
+    "nutrition": {
+      "kcal": 470.40000000000003,
+      "protein": 21.031999999999996,
+      "carbs": 71.38600000000001,
+      "fat": 13.022,
+      "fiber": 17.2
+    }
+  },
+  {
+    "id": "balanced-quinoa-fruit-bowl",
+    "title": "Quinoa fruit bowl",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegan",
+    "mealType": "Breakfast",
+    "ingredients": [
+      "180 g Quinoa, cooked weight",
+      "80 g Banana, peeled weight",
+      "80 g Blueberries",
+      "15 g Unsalted English walnuts",
+      "10 g Chia seeds"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "quinoa",
+        "grams": 180
+      },
+      {
+        "food": "banana",
+        "grams": 80
+      },
+      {
+        "food": "blueberry",
+        "grams": 80
+      },
+      {
+        "food": "walnut",
+        "grams": 15
+      },
+      {
+        "food": "chia",
+        "grams": 10
+      }
+    ],
+    "steps": [
+      "Let the cooked quinoa cool. Toss with sliced banana, blueberries, chopped walnuts and chia seeds. Add a splash of water if desired.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "tree nuts"
+    ],
+    "nutrition": {
+      "kcal": 479.5,
+      "protein": 13.3225,
+      "carbs": 74.47250000000001,
+      "fat": 16.839499999999997,
+      "fiber": 13.485
+    }
+  },
+  {
+    "id": "balanced-chicken-rice-bowl",
+    "title": "Chicken brown rice bowl",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "mixed",
+    "mealType": "Main",
+    "ingredients": [
+      "130 g Chicken breast, fully cooked and weighed after cooking",
+      "180 g Brown rice, cooked weight",
+      "150 g Broccoli, cooked and drained without added salt",
+      "80 g Red pepper, raw",
+      "10 g Olive oil",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "chicken",
+        "grams": 130
+      },
+      {
+        "food": "rice",
+        "grams": 180
+      },
+      {
+        "food": "broccoli",
+        "grams": 150
+      },
+      {
+        "food": "pepper",
+        "grams": 80
+      },
+      {
+        "food": "oil",
+        "grams": 10
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Weigh the chicken, rice and broccoli after cooking. Combine and heat through if serving warm. Add diced pepper, olive oil and lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [],
+    "nutrition": {
+      "kcal": 600.9,
+      "protein": 49.6725,
+      "carbs": 62.672999999999995,
+      "fat": 17.278,
+      "fiber": 9.555
+    }
+  },
+  {
+    "id": "balanced-chicken-quinoa-salad",
+    "title": "Chicken quinoa salad",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "mixed",
+    "mealType": "Main",
+    "ingredients": [
+      "120 g Chicken breast, fully cooked and weighed after cooking",
+      "180 g Quinoa, cooked weight",
+      "120 g Tomato, raw",
+      "100 g Cucumber with peel, raw",
+      "40 g Spinach, raw",
+      "10 g Olive oil",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "chicken",
+        "grams": 120
+      },
+      {
+        "food": "quinoa",
+        "grams": 180
+      },
+      {
+        "food": "tomato",
+        "grams": 120
+      },
+      {
+        "food": "cucumber",
+        "grams": 100
+      },
+      {
+        "food": "spinach",
+        "grams": 40
+      },
+      {
+        "food": "oil",
+        "grams": 10
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Combine the cooked chicken and quinoa with chopped tomato, cucumber and spinach. Dress with the weighed oil and lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [],
+    "nutrition": {
+      "kcal": 551.5,
+      "protein": 48.0465,
+      "carbs": 49.125,
+      "fat": 18.282,
+      "fiber": 7.904999999999999
+    }
+  },
+  {
+    "id": "balanced-salmon-potato-plate",
+    "title": "Salmon potato plate",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "mixed",
+    "mealType": "Main",
+    "ingredients": [
+      "140 g Wild Atlantic salmon, fully cooked weight",
+      "220 g Baked potato with skin, cooked weight",
+      "180 g Broccoli, cooked and drained without added salt",
+      "8 g Olive oil",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "salmon",
+        "grams": 140
+      },
+      {
+        "food": "potato",
+        "grams": 220
+      },
+      {
+        "food": "broccoli",
+        "grams": 180
+      },
+      {
+        "food": "oil",
+        "grams": 8
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Weigh the salmon and potato after cooking. Serve with steamed broccoli and a dressing of olive oil and lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "kcal": 596.42,
+      "protein": 45.45250000000001,
+      "carbs": 60.489,
+      "fat": 20.442,
+      "fiber": 10.825000000000001
+    }
+  },
+  {
+    "id": "balanced-tuna-pasta-salad",
+    "title": "Tuna whole-wheat pasta salad",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "mixed",
+    "mealType": "Main",
+    "ingredients": [
+      "120 g Light tuna in water, no added salt, drained",
+      "200 g Whole-wheat pasta, cooked weight",
+      "120 g Tomato, raw",
+      "100 g Cucumber with peel, raw",
+      "10 g Olive oil",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "tuna",
+        "grams": 120
+      },
+      {
+        "food": "pasta",
+        "grams": 200
+      },
+      {
+        "food": "tomato",
+        "grams": 120
+      },
+      {
+        "food": "cucumber",
+        "grams": 100
+      },
+      {
+        "food": "oil",
+        "grams": 10
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Mix the cooked pasta and drained tuna with diced tomato and cucumber. Toss with oil and lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "fish",
+      "gluten",
+      "wheat"
+    ],
+    "nutrition": {
+      "kcal": 565.5,
+      "protein": 44.350500000000004,
+      "carbs": 69.473,
+      "fat": 14.79,
+      "fiber": 9.785
+    }
+  },
+  {
+    "id": "balanced-chicken-sweetpotato",
+    "title": "Chicken and sweet potato",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "mixed",
+    "mealType": "Main",
+    "ingredients": [
+      "130 g Chicken breast, fully cooked and weighed after cooking",
+      "230 g Baked sweet potato flesh, cooked weight",
+      "150 g Broccoli, cooked and drained without added salt",
+      "40 g Spinach, raw",
+      "10 g Olive oil",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "chicken",
+        "grams": 130
+      },
+      {
+        "food": "sweetpotato",
+        "grams": 230
+      },
+      {
+        "food": "broccoli",
+        "grams": 150
+      },
+      {
+        "food": "spinach",
+        "grams": 40
+      },
+      {
+        "food": "oil",
+        "grams": 10
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Combine the cooked chicken and baked sweet potato with cooked broccoli. Toss the spinach with lemon juice and olive oil and serve alongside.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [],
+    "nutrition": {
+      "kcal": 574.9,
+      "protein": 49.7155,
+      "carbs": 60.89,
+      "fat": 15.793,
+      "fiber": 13.465
+    }
+  },
+  {
+    "id": "balanced-salmon-quinoa-bowl",
+    "title": "Salmon quinoa bowl",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "mixed",
+    "mealType": "Main",
+    "ingredients": [
+      "120 g Wild Atlantic salmon, fully cooked weight",
+      "180 g Quinoa, cooked weight",
+      "120 g Cucumber with peel, raw",
+      "100 g Red pepper, raw",
+      "50 g Avocado flesh",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "salmon",
+        "grams": 120
+      },
+      {
+        "food": "quinoa",
+        "grams": 180
+      },
+      {
+        "food": "cucumber",
+        "grams": 120
+      },
+      {
+        "food": "pepper",
+        "grams": 100
+      },
+      {
+        "food": "avocado",
+        "grams": 50
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Arrange cooked salmon and quinoa in a bowl. Add diced cucumber and pepper. Finish with avocado and lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "kcal": 561.7,
+      "protein": 41.270500000000006,
+      "carbs": 54.026,
+      "fat": 21.01,
+      "fiber": 11.135
+    }
+  },
+  {
+    "id": "balanced-lentil-quinoa-salad",
+    "title": "Lentil quinoa salad",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegan",
+    "mealType": "Main",
+    "ingredients": [
+      "180 g Lentils, cooked and drained",
+      "160 g Quinoa, cooked weight",
+      "120 g Tomato, raw",
+      "100 g Cucumber with peel, raw",
+      "80 g Red pepper, raw",
+      "10 g Olive oil",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "lentils",
+        "grams": 180
+      },
+      {
+        "food": "quinoa",
+        "grams": 160
+      },
+      {
+        "food": "tomato",
+        "grams": 120
+      },
+      {
+        "food": "cucumber",
+        "grams": 100
+      },
+      {
+        "food": "pepper",
+        "grams": 80
+      },
+      {
+        "food": "oil",
+        "grams": 10
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Combine cooked lentils and quinoa with diced tomato, cucumber and pepper. Dress with olive oil and lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [],
+    "nutrition": {
+      "kcal": 549.9,
+      "protein": 25.8265,
+      "carbs": 84.47099999999999,
+      "fat": 14.382,
+      "fiber": 22.365000000000002
+    }
+  },
+  {
+    "id": "balanced-tofu-edamame-rice",
+    "title": "Tofu edamame rice bowl",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegan",
+    "mealType": "Main",
+    "ingredients": [
+      "180 g Firm calcium-set tofu, drained",
+      "100 g Green soybeans, cooked, shelled and drained",
+      "160 g Brown rice, cooked weight",
+      "150 g Broccoli, cooked and drained without added salt",
+      "5 g Olive oil",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "tofu",
+        "grams": 180
+      },
+      {
+        "food": "edamame",
+        "grams": 100
+      },
+      {
+        "food": "rice",
+        "grams": 160
+      },
+      {
+        "food": "broccoli",
+        "grams": 150
+      },
+      {
+        "food": "oil",
+        "grams": 5
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Warm the drained tofu in the weighed oil. Add cooked edamame, broccoli and rice and heat through. Finish with lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "nutrition": {
+      "kcal": 697.0,
+      "protein": 51.442499999999995,
+      "carbs": 68.78699999999999,
+      "fat": 29.299000000000003,
+      "fiber": 15.895
+    }
+  },
+  {
+    "id": "balanced-blackbean-sweetpotato",
+    "title": "Black bean sweet potato bowl",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegan",
+    "mealType": "Main",
+    "ingredients": [
+      "200 g Black beans, cooked and drained without added salt",
+      "220 g Baked sweet potato flesh, cooked weight",
+      "120 g Tomato, raw",
+      "80 g Red pepper, raw",
+      "60 g Avocado flesh",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "beans",
+        "grams": 200
+      },
+      {
+        "food": "sweetpotato",
+        "grams": 220
+      },
+      {
+        "food": "tomato",
+        "grams": 120
+      },
+      {
+        "food": "pepper",
+        "grams": 80
+      },
+      {
+        "food": "avocado",
+        "grams": 60
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Fill a baked sweet potato with warm cooked black beans. Add diced tomato and pepper, avocado and lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [],
+    "nutrition": {
+      "kcal": 603.7,
+      "protein": 25.2425,
+      "carbs": 108.627,
+      "fat": 10.722,
+      "fiber": 31.845
+    }
+  },
+  {
+    "id": "balanced-chickpea-couscous",
+    "title": "Chickpea vegetable couscous",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegan",
+    "mealType": "Main",
+    "ingredients": [
+      "180 g Chickpeas, cooked and drained without added salt",
+      "180 g Couscous, cooked weight",
+      "100 g Carrot, raw",
+      "100 g Red pepper, raw",
+      "40 g Spinach, raw",
+      "10 g Olive oil",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "chickpeas",
+        "grams": 180
+      },
+      {
+        "food": "couscous",
+        "grams": 180
+      },
+      {
+        "food": "carrot",
+        "grams": 100
+      },
+      {
+        "food": "pepper",
+        "grams": 100
+      },
+      {
+        "food": "spinach",
+        "grams": 40
+      },
+      {
+        "food": "oil",
+        "grams": 10
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Warm cooked couscous and chickpeas. Fold in grated carrot, diced pepper and spinach. Stir through oil and lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "gluten",
+      "wheat"
+    ],
+    "nutrition": {
+      "kcal": 664.6999999999999,
+      "protein": 25.8865,
+      "carbs": 109.249,
+      "fat": 15.682,
+      "fiber": 22.025
+    }
+  },
+  {
+    "id": "balanced-lentil-potato-bowl",
+    "title": "Lentil potato bowl",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegan",
+    "mealType": "Main",
+    "ingredients": [
+      "220 g Lentils, cooked and drained",
+      "220 g Baked potato with skin, cooked weight",
+      "150 g Tomato, raw",
+      "60 g Spinach, raw",
+      "10 g Olive oil",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "lentils",
+        "grams": 220
+      },
+      {
+        "food": "potato",
+        "grams": 220
+      },
+      {
+        "food": "tomato",
+        "grams": 150
+      },
+      {
+        "food": "spinach",
+        "grams": 60
+      },
+      {
+        "food": "oil",
+        "grams": 10
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Spoon warm cooked lentils over the baked potato. Serve with chopped tomato, spinach and the weighed olive oil and lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [],
+    "nutrition": {
+      "kcal": 592.3,
+      "protein": 28.432499999999997,
+      "carbs": 99.86399999999999,
+      "fat": 11.692,
+      "fiber": 25.385
+    }
+  },
+  {
+    "id": "balanced-tofu-peanut-noodles",
+    "title": "Tofu peanut pasta",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegan",
+    "mealType": "Main",
+    "ingredients": [
+      "160 g Firm calcium-set tofu, drained",
+      "180 g Whole-wheat pasta, cooked weight",
+      "15 g Smooth peanut butter, no added salt",
+      "100 g Carrot, raw",
+      "60 g Spinach, raw",
+      "5 g Olive oil",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "tofu",
+        "grams": 160
+      },
+      {
+        "food": "pasta",
+        "grams": 180
+      },
+      {
+        "food": "peanut",
+        "grams": 15
+      },
+      {
+        "food": "carrot",
+        "grams": 100
+      },
+      {
+        "food": "spinach",
+        "grams": 60
+      },
+      {
+        "food": "oil",
+        "grams": 5
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Cook the tofu in the olive oil. Loosen peanut butter and lemon juice with warm water. Toss with cooked pasta, grated carrot and spinach.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "gluten",
+      "peanut",
+      "soy",
+      "wheat"
+    ],
+    "nutrition": {
+      "kcal": 690.6,
+      "protein": 44.443999999999996,
+      "carbs": 74.71350000000001,
+      "fat": 30.244,
+      "fiber": 15.615
+    }
+  },
+  {
+    "id": "balanced-egg-lentil-salad",
+    "title": "Egg lentil salad",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegetarian",
+    "mealType": "Main",
+    "ingredients": [
+      "100 g Hard-boiled egg, peeled weight",
+      "180 g Lentils, cooked and drained",
+      "150 g Tomato, raw",
+      "100 g Cucumber with peel, raw",
+      "40 g Spinach, raw",
+      "8 g Olive oil",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "egg",
+        "grams": 100
+      },
+      {
+        "food": "lentils",
+        "grams": 180
+      },
+      {
+        "food": "tomato",
+        "grams": 150
+      },
+      {
+        "food": "cucumber",
+        "grams": 100
+      },
+      {
+        "food": "spinach",
+        "grams": 40
+      },
+      {
+        "food": "oil",
+        "grams": 8
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Toss cooked lentils with chopped tomato, cucumber and spinach. Add sliced hard-boiled egg, olive oil and lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "egg"
+    ],
+    "nutrition": {
+      "kcal": 489.02,
+      "protein": 31.9825,
+      "carbs": 49.306,
+      "fat": 19.896,
+      "fiber": 17.445
+    }
+  },
+  {
+    "id": "balanced-cottage-potato-plate",
+    "title": "Cottage cheese potato plate",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegetarian",
+    "mealType": "Main",
+    "ingredients": [
+      "220 g Cottage cheese, 1% milkfat",
+      "250 g Baked potato with skin, cooked weight",
+      "180 g Broccoli, cooked and drained without added salt",
+      "100 g Tomato, raw",
+      "10 g Olive oil"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "cottage",
+        "grams": 220
+      },
+      {
+        "food": "potato",
+        "grams": 250
+      },
+      {
+        "food": "broccoli",
+        "grams": 180
+      },
+      {
+        "food": "tomato",
+        "grams": 100
+      },
+      {
+        "food": "oil",
+        "grams": 10
+      }
+    ],
+    "steps": [
+      "Split the baked potato and spoon over cottage cheese. Serve with warm broccoli, diced tomato and the weighed olive oil.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "kcal": 560.3,
+      "protein": 38.672000000000004,
+      "carbs": 75.673,
+      "fat": 13.507,
+      "fiber": 12.64
+    }
+  },
+  {
+    "id": "balanced-bean-quinoa-yogurt",
+    "title": "Bean quinoa yogurt bowl",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegetarian",
+    "mealType": "Main",
+    "ingredients": [
+      "150 g Black beans, cooked and drained without added salt",
+      "150 g Quinoa, cooked weight",
+      "150 g Plain nonfat Greek yogurt",
+      "120 g Red pepper, raw",
+      "100 g Cucumber with peel, raw",
+      "8 g Olive oil",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "beans",
+        "grams": 150
+      },
+      {
+        "food": "quinoa",
+        "grams": 150
+      },
+      {
+        "food": "yogurt",
+        "grams": 150
+      },
+      {
+        "food": "pepper",
+        "grams": 120
+      },
+      {
+        "food": "cucumber",
+        "grams": 100
+      },
+      {
+        "food": "oil",
+        "grams": 8
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Combine cooked black beans and quinoa with diced pepper and cucumber. Mix yogurt with lemon juice and oil and spoon over the bowl.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "kcal": 586.72,
+      "protein": 37.0655,
+      "carbs": 84.816,
+      "fat": 12.781,
+      "fiber": 20.315
+    }
+  },
+  {
+    "id": "balanced-edamame-quinoa-salad",
+    "title": "Edamame quinoa salad",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegan",
+    "mealType": "Main",
+    "ingredients": [
+      "180 g Green soybeans, cooked, shelled and drained",
+      "180 g Quinoa, cooked weight",
+      "120 g Cucumber with peel, raw",
+      "120 g Tomato, raw",
+      "50 g Avocado flesh",
+      "10 g Unsalted almonds",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "edamame",
+        "grams": 180
+      },
+      {
+        "food": "quinoa",
+        "grams": 180
+      },
+      {
+        "food": "cucumber",
+        "grams": 120
+      },
+      {
+        "food": "tomato",
+        "grams": 120
+      },
+      {
+        "food": "avocado",
+        "grams": 50
+      },
+      {
+        "food": "almond",
+        "grams": 10
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Mix cooked edamame and quinoa with diced cucumber, tomato and avocado. Add lemon juice and chopped almonds.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "soy",
+      "tree nuts"
+    ],
+    "nutrition": {
+      "kcal": 650.6,
+      "protein": 35.1535,
+      "carbs": 74.709,
+      "fat": 27.707,
+      "fiber": 19.285
+    }
+  },
+  {
+    "id": "balanced-yogurt-berry-almond",
+    "title": "Yogurt berries and almonds",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegetarian",
+    "mealType": "Side",
+    "ingredients": [
+      "200 g Plain nonfat Greek yogurt",
+      "100 g Strawberries, stalks removed",
+      "20 g Unsalted almonds"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "yogurt",
+        "grams": 200
+      },
+      {
+        "food": "strawberry",
+        "grams": 100
+      },
+      {
+        "food": "almond",
+        "grams": 20
+      }
+    ],
+    "steps": [
+      "Spoon yogurt into a bowl. Add berries and chopped almonds.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "milk",
+      "tree nuts"
+    ],
+    "nutrition": {
+      "kcal": 265.8,
+      "protein": 25.28,
+      "carbs": 19.189999999999998,
+      "fat": 11.066,
+      "fiber": 4.5
+    }
+  },
+  {
+    "id": "balanced-apple-peanut",
+    "title": "Apple and peanut butter",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegan",
+    "mealType": "Side",
+    "ingredients": [
+      "180 g Gala apple with skin, core removed",
+      "25 g Smooth peanut butter, no added salt"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "apple",
+        "grams": 180
+      },
+      {
+        "food": "peanut",
+        "grams": 25
+      }
+    ],
+    "steps": [
+      "Slice the cored apple and serve with the weighed peanut butter.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "peanut"
+    ],
+    "nutrition": {
+      "kcal": 252.1,
+      "protein": 6.0025,
+      "carbs": 30.201500000000003,
+      "fat": 13.056,
+      "fiber": 5.39
+    }
+  },
+  {
+    "id": "balanced-banana-walnut",
+    "title": "Banana and walnuts",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegan",
+    "mealType": "Side",
+    "ingredients": [
+      "120 g Banana, peeled weight",
+      "25 g Unsalted English walnuts"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "banana",
+        "grams": 120
+      },
+      {
+        "food": "walnut",
+        "grams": 25
+      }
+    ],
+    "steps": [
+      "Slice the banana and serve with the weighed walnuts.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "tree nuts"
+    ],
+    "nutrition": {
+      "kcal": 270.3,
+      "protein": 5.1155,
+      "carbs": 30.835500000000003,
+      "fat": 16.6985,
+      "fiber": 4.795
+    }
+  },
+  {
+    "id": "balanced-cottage-tomato",
+    "title": "Cottage cheese tomato bowl",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegetarian",
+    "mealType": "Side",
+    "ingredients": [
+      "200 g Cottage cheese, 1% milkfat",
+      "150 g Tomato, raw",
+      "100 g Cucumber with peel, raw",
+      "5 g Olive oil"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "cottage",
+        "grams": 200
+      },
+      {
+        "food": "tomato",
+        "grams": 150
+      },
+      {
+        "food": "cucumber",
+        "grams": 100
+      },
+      {
+        "food": "oil",
+        "grams": 5
+      }
+    ],
+    "steps": [
+      "Combine cottage cheese with chopped tomato and cucumber. Stir in the weighed olive oil.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "kcal": 230.2,
+      "protein": 26.75,
+      "carbs": 14.905000000000001,
+      "fat": 7.45,
+      "fiber": 2.3
+    }
+  },
+  {
+    "id": "balanced-edamame-carrot",
+    "title": "Edamame carrot bowl",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegan",
+    "mealType": "Side",
+    "ingredients": [
+      "180 g Green soybeans, cooked, shelled and drained",
+      "100 g Carrot, raw",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "edamame",
+        "grams": 180
+      },
+      {
+        "food": "carrot",
+        "grams": 100
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Toss cooked shelled edamame with grated carrot and lemon juice. Serve warm or chilled.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "nutrition": {
+      "kcal": 298.1,
+      "protein": 23.212500000000002,
+      "carbs": 30.505,
+      "fat": 11.796,
+      "fiber": 10.405
+    }
+  },
+  {
+    "id": "balanced-chickpea-cucumber",
+    "title": "Lemon chickpea side salad",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegan",
+    "mealType": "Side",
+    "ingredients": [
+      "150 g Chickpeas, cooked and drained without added salt",
+      "120 g Cucumber with peel, raw",
+      "100 g Tomato, raw",
+      "8 g Olive oil",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "chickpeas",
+        "grams": 150
+      },
+      {
+        "food": "cucumber",
+        "grams": 120
+      },
+      {
+        "food": "tomato",
+        "grams": 100
+      },
+      {
+        "food": "oil",
+        "grams": 8
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Toss cooked chickpeas with chopped cucumber and tomato. Stir in the weighed olive oil and lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [],
+    "nutrition": {
+      "kcal": 356.02,
+      "protein": 15.0025,
+      "carbs": 50.411,
+      "fat": 12.253,
+      "fiber": 13.245000000000001
+    }
+  },
+  {
+    "id": "balanced-yogurt-banana-chia",
+    "title": "Banana chia yogurt",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegetarian",
+    "mealType": "Side",
+    "ingredients": [
+      "200 g Plain nonfat Greek yogurt",
+      "100 g Banana, peeled weight",
+      "15 g Chia seeds"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "yogurt",
+        "grams": 200
+      },
+      {
+        "food": "banana",
+        "grams": 100
+      },
+      {
+        "food": "chia",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Mix yogurt with chia seeds and sliced banana. Let the seeds soften before serving.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "kcal": 279.9,
+      "protein": 23.951,
+      "carbs": 36.358,
+      "fat": 5.721,
+      "fiber": 7.76
+    }
+  },
+  {
+    "id": "balanced-tofu-avocado-salad",
+    "title": "Tofu avocado side salad",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegan",
+    "mealType": "Side",
+    "ingredients": [
+      "150 g Firm calcium-set tofu, drained",
+      "50 g Avocado flesh",
+      "120 g Tomato, raw",
+      "100 g Cucumber with peel, raw",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "tofu",
+        "grams": 150
+      },
+      {
+        "food": "avocado",
+        "grams": 50
+      },
+      {
+        "food": "tomato",
+        "grams": 120
+      },
+      {
+        "food": "cucumber",
+        "grams": 100
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Dice the drained tofu and avocado. Toss with tomato, cucumber and lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "nutrition": {
+      "kcal": 335.9,
+      "protein": 28.663500000000003,
+      "carbs": 17.767999999999997,
+      "fat": 20.796,
+      "fiber": 8.785
+    }
+  },
+  {
+    "id": "balanced-chicken-avocado-salad",
+    "title": "Chicken avocado salad",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "mixed",
+    "mealType": "Main",
+    "ingredients": [
+      "180 g Chicken breast, fully cooked and weighed after cooking",
+      "70 g Avocado flesh",
+      "100 g Tomato, raw",
+      "100 g Cucumber with peel, raw",
+      "50 g Spinach, raw",
+      "8 g Olive oil",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "chicken",
+        "grams": 180
+      },
+      {
+        "food": "avocado",
+        "grams": 70
+      },
+      {
+        "food": "tomato",
+        "grams": 100
+      },
+      {
+        "food": "cucumber",
+        "grams": 100
+      },
+      {
+        "food": "spinach",
+        "grams": 50
+      },
+      {
+        "food": "oil",
+        "grams": 8
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Slice the fully cooked chicken. Toss with avocado, chopped tomato, cucumber and spinach. Dress with the weighed olive oil and lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [],
+    "nutrition": {
+      "kcal": 527.52,
+      "protein": 60.24850000000001,
+      "carbs": 16.340999999999998,
+      "fat": 25.229,
+      "fiber": 7.535
+    }
+  },
+  {
+    "id": "balanced-lemon-chicken-greens",
+    "title": "Lemon chicken and greens",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "mixed",
+    "mealType": "Main",
+    "ingredients": [
+      "200 g Chicken breast, fully cooked and weighed after cooking",
+      "220 g Broccoli, cooked and drained without added salt",
+      "80 g Red pepper, raw",
+      "50 g Spinach, raw",
+      "10 g Olive oil",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "chicken",
+        "grams": 200
+      },
+      {
+        "food": "broccoli",
+        "grams": 220
+      },
+      {
+        "food": "pepper",
+        "grams": 80
+      },
+      {
+        "food": "spinach",
+        "grams": 50
+      },
+      {
+        "food": "oil",
+        "grams": 10
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Weigh the chicken and broccoli after cooking and combine while warm. Add diced pepper and spinach, then the weighed oil and lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [],
+    "nutrition": {
+      "kcal": 531.0,
+      "protein": 69.5505,
+      "carbs": 23.47,
+      "fat": 18.512999999999998,
+      "fiber": 10.084999999999999
+    }
+  },
+  {
+    "id": "balanced-tuna-bean-greens",
+    "title": "Tuna bean salad",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "mixed",
+    "mealType": "Main",
+    "ingredients": [
+      "180 g Light tuna in water, no added salt, drained",
+      "100 g Black beans, cooked and drained without added salt",
+      "150 g Tomato, raw",
+      "100 g Cucumber with peel, raw",
+      "10 g Olive oil",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "tuna",
+        "grams": 180
+      },
+      {
+        "food": "beans",
+        "grams": 100
+      },
+      {
+        "food": "tomato",
+        "grams": 150
+      },
+      {
+        "food": "cucumber",
+        "grams": 100
+      },
+      {
+        "food": "oil",
+        "grams": 10
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Combine drained tuna and cooked black beans with chopped tomato and cucumber. Toss with the weighed olive oil and lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "kcal": 474.5,
+      "protein": 56.8005,
+      "carbs": 34.21,
+      "fat": 12.462,
+      "fiber": 11.045
+    }
+  },
+  {
+    "id": "balanced-salmon-vegetable-plate",
+    "title": "Salmon vegetable plate",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "mixed",
+    "mealType": "Main",
+    "ingredients": [
+      "170 g Wild Atlantic salmon, fully cooked weight",
+      "200 g Broccoli, cooked and drained without added salt",
+      "150 g Red pepper, raw",
+      "10 g Olive oil",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "salmon",
+        "grams": 170
+      },
+      {
+        "food": "broccoli",
+        "grams": 200
+      },
+      {
+        "food": "pepper",
+        "grams": 150
+      },
+      {
+        "food": "oil",
+        "grams": 10
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Serve fully cooked salmon with cooked broccoli and sliced pepper. Finish with the weighed olive oil and lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "nutrition": {
+      "kcal": 510.09999999999997,
+      "protein": 49.545500000000004,
+      "carbs": 24.439999999999998,
+      "fat": 25.127000000000002,
+      "fiber": 9.795
+    }
+  },
+  {
+    "id": "balanced-cottage-egg-salad",
+    "title": "Cottage cheese egg salad",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegetarian",
+    "mealType": "Main",
+    "ingredients": [
+      "200 g Cottage cheese, 1% milkfat",
+      "100 g Hard-boiled egg, peeled weight",
+      "150 g Tomato, raw",
+      "100 g Cucumber with peel, raw",
+      "50 g Spinach, raw",
+      "8 g Olive oil",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "cottage",
+        "grams": 200
+      },
+      {
+        "food": "egg",
+        "grams": 100
+      },
+      {
+        "food": "tomato",
+        "grams": 150
+      },
+      {
+        "food": "cucumber",
+        "grams": 100
+      },
+      {
+        "food": "spinach",
+        "grams": 50
+      },
+      {
+        "food": "oil",
+        "grams": 8
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Combine cottage cheese with chopped hard-boiled egg, tomato, cucumber and spinach. Add the weighed olive oil and lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "egg",
+      "milk"
+    ],
+    "nutrition": {
+      "kcal": 426.52,
+      "protein": 40.8125,
+      "carbs": 18.875,
+      "fat": 21.291,
+      "fiber": 3.4450000000000003
+    }
+  },
+  {
+    "id": "balanced-tofu-edamame-greens",
+    "title": "Tofu edamame greens",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegan",
+    "mealType": "Main",
+    "ingredients": [
+      "220 g Firm calcium-set tofu, drained",
+      "160 g Green soybeans, cooked, shelled and drained",
+      "150 g Broccoli, cooked and drained without added salt",
+      "50 g Spinach, raw",
+      "5 g Olive oil",
+      "15 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "tofu",
+        "grams": 220
+      },
+      {
+        "food": "edamame",
+        "grams": 160
+      },
+      {
+        "food": "broccoli",
+        "grams": 150
+      },
+      {
+        "food": "spinach",
+        "grams": 50
+      },
+      {
+        "food": "oil",
+        "grams": 5
+      },
+      {
+        "food": "lemon",
+        "grams": 15
+      }
+    ],
+    "steps": [
+      "Warm the tofu in the weighed oil. Add cooked edamame, cooked broccoli and spinach and heat through. Finish with lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "nutrition": {
+      "kcal": 653.9,
+      "protein": 62.8065,
+      "carbs": 37.416,
+      "fat": 35.27,
+      "fiber": 17.875
+    }
+  },
+  {
+    "id": "balanced-greek-berry-bowl",
+    "title": "Greek yogurt berry bowl",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegetarian",
+    "mealType": "Side",
+    "ingredients": [
+      "300 g Plain nonfat Greek yogurt",
+      "100 g Strawberries, stalks removed"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "yogurt",
+        "grams": 300
+      },
+      {
+        "food": "strawberry",
+        "grams": 100
+      }
+    ],
+    "steps": [
+      "Spoon plain Greek yogurt into a bowl and top with chopped strawberries.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "kcal": 209.0,
+      "protein": 31.240000000000002,
+      "carbs": 18.48,
+      "fat": 1.47,
+      "fiber": 2.0
+    }
+  },
+  {
+    "id": "balanced-yogurt-cottage-bowl",
+    "title": "Yogurt cottage cheese bowl",
+    "category": "Balanced",
+    "area": "",
+    "image": "",
+    "sourceUrl": "https://fdc.nal.usda.gov/",
+    "provider": "balanced",
+    "diet": "vegetarian",
+    "mealType": "Side",
+    "ingredients": [
+      "250 g Plain nonfat Greek yogurt",
+      "200 g Cottage cheese, 1% milkfat",
+      "100 g Cucumber with peel, raw",
+      "10 g Lemon juice"
+    ],
+    "ingredientAmounts": [
+      {
+        "food": "yogurt",
+        "grams": 250
+      },
+      {
+        "food": "cottage",
+        "grams": 200
+      },
+      {
+        "food": "cucumber",
+        "grams": 100
+      },
+      {
+        "food": "lemon",
+        "grams": 10
+      }
+    ],
+    "steps": [
+      "Mix plain Greek yogurt and cottage cheese. Add diced cucumber and lemon juice.",
+      "Quantities are for one base serving. Weigh edible ingredients in the stated cooked or raw form. Scale all ingredients together for a different serving size."
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "nutrition": {
+      "kcal": 308.7,
+      "protein": 50.940000000000005,
+      "carbs": 18.76,
+      "fat": 3.149,
+      "fiber": 0.53
+    }
+  }
+]

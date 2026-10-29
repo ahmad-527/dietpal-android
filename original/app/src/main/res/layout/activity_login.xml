@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/vegetable_and_fruits"
+    android:paddingLeft="20dp"
+    android:paddingEnd="10dp"
+    android:paddingRight="10dp"
+    tools:context=".Login">
+
+    <TextView
+        android:id="@+id/titleLog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="184dp"
+        android:text="DIET PAL"
+        android:textColor="#FFFFFF"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/Logh1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-3dp"
+        android:text="WELCOME BACK!"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/titleLog" />
+
+    <TextView
+        android:id="@+id/Logh2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="25dp"
+        android:text="Reconnect for a Healthier You - LOG IN Now!"
+        android:textColor="@color/white"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Logh1" />
+
+    <EditText
+        android:id="@+id/editPassword"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="55dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="56dp"
+        android:background="@drawable/input_bg"
+        android:ems="10"
+        android:hint="Enter Password"
+        android:inputType="textPassword"
+        android:padding="7dp"
+        android:paddingStart="20dp"
+        android:paddingLeft="20dp"
+        android:paddingEnd="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        android:textColor="@color/white"
+        android:textColorHint="#FFFFFF"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editText" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="55dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="56dp"
+        android:layout_marginBottom="24dp"
+        android:background="@drawable/input_bg"
+        android:ems="10"
+        android:hint="Enter Username"
+        android:inputType="text"
+        android:padding="7dp"
+        android:paddingStart="20dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingRight="10dp"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FFFFFF"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toTopOf="@+id/editPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Logh2" />
+
+    <Button
+        android:id="@+id/LoginButton"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="35dp"
+        android:backgroundTint="#FFBA0B0B"
+        android:text="LOG IN"
+        android:textSize="25dp"
+        android:textColor="@color/white"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toTopOf="@+id/textView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editPassword" />
+
+    <Button
+        android:id="@+id/RegBtn"
+        android:layout_width="250dp"
+        android:layout_height="51dp"
+        android:layout_marginBottom="56dp"
+        android:backgroundTint="#FFBA0B0B"
+        android:text="Register as a New User"
+        android:textSize="15dp"
+        android:textColor="@color/white"
+        android:singleLine="true"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="-5dp"
+        android:text="OR"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toTopOf="@+id/RegBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.991" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

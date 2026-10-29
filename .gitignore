@@ -9,3 +9,13 @@ secrets.properties
 captures/
 .cxx/
 .externalNativeBuild/
+
+# Optional models and private artifacts
+*.litertlm
+*.tflite
+*.task
+*.apk
+*.apks
+*.aab
+*.log
+*.tar

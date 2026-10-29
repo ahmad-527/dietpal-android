@@ -1,28 +1,36 @@
 # DietPal
 
-An undergraduate Android project evolving into a practical meal-planning and nutrition-tracking app.
+Two independently installable Android editions: the repaired undergraduate app and a new nutrition, meal-planning and movement experience.
 
-## Two editions
-
-| Edition | Purpose | Current status |
+| Edition | Explore | Application ID |
 | --- | --- | --- |
-| **Original** | Preserve the coursework interface, workout GIFs, photos and application flows. | Restoration and functional verification in progress. Required credential redactions and runtime fixes will be documented. |
-| **Flagship** | A redesigned app for everyday meal logging, nutrition tracking and planning. | In development. Features will be marked complete only after implementation and verification. |
+| **Original** | [Source and build](original/README.md): coursework interface, local accounts, BMI, animated workouts and restored recipes. | `com.example.dietpal` |
+| **Flagship preview** | [Source and build](flagship/README.md): diary, custom macro goals, balanced recipes, dated plans, supplements, water, progress and workout records. | `com.example.dietpal.flagship` |
+| **Historical source** | [Frozen coursework source](https://github.com/ahmad-527/dietpal-android/tree/coursework-source): selected source bytes preserved, with the embedded credential redacted. | Archival; run the repaired Original edition. |
 
-Both editions will be available from this repository, with separate build/install instructions and screenshots. They will use different Android application IDs so they can be installed together.
+[Download both review APKs](https://github.com/ahmad-527/dietpal-android/releases/tag/two-edition-preview-20261029) · [Validation and limits](docs/VALIDATION.md) · [Changes and provenance](docs/PORTFOLIO_CHANGES.md)
 
-## Current public source: portfolio v1
+![Original and Flagship app screens](docs/screenshots/editions-comparison.png)
 
-The source currently at the repository root is the **initial portfolio preparation**, published before the two-edition upgrade. It includes changes to the coursework app and is **not the untouched original or the completed flagship**. Its frozen snapshot is available at [portfolio-v1](https://github.com/ahmad-527/dietpal-android/tree/portfolio-v1).
+Actual emulator screens with synthetic demonstration entries.
 
-**Recipe limitation:** this initial version requires a developer-supplied Spoonacular key. Its recipe browsing and details were not verified against live provider responses. Testing the missing-key message did not establish that the feature works end to end. The replacement recipe flow is being implemented with a documented educational API and an offline collection.
+## Flagship experience
 
-The initial build, 17 host tests and one Android 14 emulator workflow passed; that workflow checked the missing-key state, not successful recipe browsing. Its [validation record](docs/VALIDATION.md) applies only to portfolio v1. It has 197 lint warnings and no physical-device validation.
+- Portion-aware calorie and macro diary, editable food/label entry, recent foods and packaged-food name/barcode lookup. Missing nutrition remains unknown.
+- Exact point, ranged, minimum or maximum targets, including `100-150` g carbohydrate and `>2000` kcal. Goals are dated; changing next week preserves earlier records.
+- Forty gram-specified recipes with ingredient-based USDA estimates. Mixed, vegetarian and vegan planning; one to six eating occasions; food/allergen exclusions, variations and swaps.
+- Week, calendar-month and calendar-year previews before saving. Target gaps remain visible. Point goals have a disclosed 10% planning tolerance; explicit ranges and limits are strict.
+- Optional label-defined supplements, using the user's chosen serving and quantity, counted toward **all** calories and macros. No automatic brand or dose prescription.
+- Saved recipes, portion-scaled ingredient checklists, water, weight trends, workout records, animated exercise timers and opt-in local reminders.
+- Optional on-device meal-photo estimates with explicit review/editing. The free model is downloaded separately; photos are not uploaded. Hardware and accuracy limits are documented in the build and validation guides.
+- No account required. Records stay in the app; JSON export and confirmed deletion are available.
 
-## Flagship direction
+The flagship is a **development preview**, not a clinical nutrition product or a claim of feature parity with established health apps. Macro matching does not establish complete nutrient adequacy. Recipe/food lookup uses online providers; the bundled balanced collection and manual diary work offline.
 
-The target user is an adult who wants a simple daily food diary and a practical way to plan meals. The competitive baseline and implementation priorities are recorded in [Product direction](docs/PRODUCT_DIRECTION.md).
+## Evidence and design
 
-Planned core: calorie and macro logging, portion-aware food entry, food and barcode lookup, recipe browsing/search/details, saved meals, meal planning, shopping lists, water tracking, progress history and local data controls. These are development targets, not claims about the current build.
+[Interface design](docs/INTERFACE_DESIGN.md) records the Samsung, Huawei and Apple reference patterns. [Nutrition and planning](docs/NUTRITION_AND_PLANNING.md) explains calculations, constraints and research limits. The [100-record screening register](docs/research/SCREENING.md) is title/abstract screening, **not** 100 full-text appraisals or proof the app improves health.
 
-The original coursework was developed at **Majan University College** for **Mobile Application Development, 2023–24**. The later portfolio and flagship work is documented separately. Credentials, local SDK paths and private academic records are excluded. Upstream components retain their terms; no repository-wide source licence has been selected.
+[Third-party notices](docs/THIRD_PARTY_NOTICES.md) cover libraries, food data and service terms. TheMealDB's public educational endpoint is used for this portfolio; app-store distribution requires separate provider arrangements. Physical-phone performance, prospective nutrition accuracy and app-store readiness are not established by emulator tests.
+
+The original coursework was developed at **Majan University College** for **Mobile Application Development, 2023–24**. The later repairs and flagship development are documented separately. The initial portfolio preparation remains at [portfolio-v1](https://github.com/ahmad-527/dietpal-android/tree/portfolio-v1); its earlier validation does not describe the current editions. Private academic records, API credentials, SDK paths, signing keys and model weights are excluded. No repository-wide source licence has been selected.

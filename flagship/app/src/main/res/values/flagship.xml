@@ -1,0 +1,7 @@
+<resources>
+<style name="Theme.DietPal.Flagship" parent="Theme.MaterialComponents.Light.NoActionBar">
+<item name="colorPrimary">#245FD5</item><item name="colorPrimaryVariant">#182333</item><item name="colorSecondary">#245FD5</item>
+<item name="android:fontFamily">sans</item><item name="android:windowLightStatusBar">true</item><item name="android:colorAccent">#245FD5</item>
+<item name="android:windowBackground">#F3F5F9</item><item name="android:editTextColor">#182333</item><item name="android:textColorHint">#58677B</item>
+</style>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <!-- Picasso is used only for ImageViews. Its unused RemoteViews notification target
+         is excluded here; DietPal's own opt-in reminders check notification permission. -->
+    <issue id="NotificationPermission">
+        <ignore regexp=".*com\.squareup\.picasso\.RemoteViewsAction\.NotificationAction.*" />
+    </issue>
+</lint>

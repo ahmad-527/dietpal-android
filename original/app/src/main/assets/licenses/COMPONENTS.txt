@@ -1,0 +1,6 @@
+DietPal uses upstream components under their respective licences.
+Apache 2.0: AndroidX and Material Components (Google/Android Open Source Project); Retrofit, OkHttp, Okio and Picasso (Square); Gson (Google); Kotlin and kotlinx.coroutines (JetBrains); ReLinker (KeepSafe).
+MIT and included BSD/Apache notices: android-gif-drawable (Karol Wrotniak, Droids on Roids LLC), Skia and GIFLIB. Full notices are included alongside this file.
+The flagship additionally uses Google AI Edge LiteRT-LM under Apache 2.0 and its included third-party notices. The optional Gemma 4 E2B model is downloaded separately under Apache 2.0.
+Source links and data-service terms: https://github.com/ahmad-527/dietpal-android/blob/main/docs/THIRD_PARTY_NOTICES.md
+The source repository does not grant an overall source licence.

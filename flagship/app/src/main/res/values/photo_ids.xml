@@ -1,0 +1,7 @@
+<resources>
+    <item type="id" name="photo_status" />
+    <item type="id" name="photo_download" />
+    <item type="id" name="photo_choose" />
+    <item type="id" name="photo_analyze" />
+    <item type="id" name="photo_results" />
+</resources>

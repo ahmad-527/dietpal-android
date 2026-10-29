@@ -1,23 +1,17 @@
-# Portfolio changes
+# Editions and provenance
 
-This is an October 2026 portfolio edition of an undergraduate Mobile Application Development project. The original D-drive source and submitted report remain unchanged privately. These preparation changes and additional checks were made with Codex assistance; they are not represented as features or test evidence from the 2023–24 submission.
+## Historical source
 
-## Application fixes
+The `coursework-source` branch preserves the selected coursework source and artwork from the original project, separately from later repairs. Its manifest records 167 original selected files. One embedded recipe credential is redacted; its private bytes are never placed in Git. Build/IDE caches, machine paths and private academic submissions are excluded. No functionality is inferred from preserving historical bytes.
 
-- Successful login now lets MainActivity create its home fragment, removing a transaction against a container missing from the login layout. Registration and password verification run outside the UI thread. Logout clears the previous activity stack.
-- Password storage uses random salts and PBKDF2-HMAC-SHA256 with 600,000 iterations. Database version 2 migrates legacy demo passwords without dropping the accounts. Cursors close after use; new databases enforce unique usernames. This does not create a hosted authentication service or constitute a production-security audit.
-- BMI arithmetic rejects blank, non-numeric, non-finite, zero and negative inputs. The calculation is separated from the fragment for testing.
-- Workouts validate their exercise ID before loading one of the fifteen layouts. Timers stop when the screen stops/destroys, and completed screens finish rather than accumulating in the back stack.
-- Recipe configuration is loaded from ignored local properties into BuildConfig. The archived key is absent. Missing-key and error states close loading indicators; transport errors do not display request URLs. Requests are cancelled when recipe screens close.
-- Informational pages describe actual local-data and optional API behaviour. The unfinished settings menu entry is hidden. Other retained placeholder source is not advertised as completed functionality.
+## Original repaired edition
 
-## Resources and build
+The `original/` project preserves the historical interface, photos, animated exercise guides and principal flows. Later fixes include SDK/build compatibility, salted PBKDF2 account storage and migration, validated BMI inputs, timer lifecycle and logout navigation. The original Spoonacular adapter is retained with private build-time configuration; the public default adapts live TheMealDB recipes into the historical UI. Provider-absent time/servings/likes are not invented. Empty information pages now provide settings guidance, project support and privacy details. Upstream notices are available in-app.
 
-- Replaced all 34 original raster assets, including the fifteen workout GIFs, photos and raster launcher icons, after the owner stated their reuse permissions were unknown. The replacements are original Android XML vectors and gradients. Workout illustrations are static. Dark backgrounds preserve contrast with the existing white labels; vector intrinsic dimensions are bounded.
-- Replaced GIF-specific image buttons with standard vector-capable views, refined navigation icons and added accessibility labels/decorative-image handling.
-- Extracted 202 static UI strings into resources and changed 58 text sizes from dp to sp. English remains the supported content language.
-- Kept the original application structure, Java implementation, package ID and main feature areas. Min SDK is now 26 for the password-hashing/Base64 APIs; compile/target SDK remains 34.
-- Aligned the wrapper JAR with Gradle 8.0 and verified its official checksum; pinned the distribution checksum. Picasso changed from 2.71828 to AndroidX-compatible 2.8 after the original dependency introduced legacy support libraries. The unused GIF dependency was removed.
-- Added meaningful JVM/Robolectric tests and an emulator workflow test. Removed the original template addition/package-name assertions from the reported checks.
+This is a runnable **repaired edition**, not an untouched archival copy. `portfolio-v1` freezes the earlier public preparation; its previous documentation is retained under `docs/archive/`.
 
-The private preparation records bind the original file hashes, changes, APK and public file list. They contain internal paths and are excluded from this repository.
+## Flagship preview
+
+The `flagship/` project has a separate application ID and launcher. Later development adds the compact health dashboard, food diary/portions, dated macro constraints, bundled USDA-calculated recipes, personalised dated plans, supplement accounting, local data controls, water/weight history, movement records, animated guided timers, local reminders and optional on-device photo estimates. The historical exercise media is reused; new navigation and food illustrations are vector assets. Product decisions and evidence limitations are recorded in the design/nutrition documents.
+
+Source, calculation tests, native Android journeys and downloadable APKs are versioned together. Automated tests establish their stated scenarios; they do not establish physical-device performance, clinical suitability, complete nutrition adequacy or app-store readiness. See the current validation record for actual tested builds and outstanding limits.

@@ -1,0 +1,6 @@
+<resources>
+  <item name="exercise_library" type="id"/><item name="guided_image" type="id"/>
+  <item name="guided_clock" type="id"/><item name="guided_duration" type="id"/>
+  <item name="guided_seconds" type="id"/><item name="guided_start" type="id"/>
+  <item name="guided_save" type="id"/>
+</resources>

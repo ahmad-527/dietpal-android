@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-29",
+  "environment": "Dedicated Android 14/API 34 x86_64 emulator; synthetic records only",
+  "editions": {
+    "original": {
+      "apk_sha256": "a5e7897a82ef3e6d26d10cbdba7a40774d34da834adab990e77c4869af58f024",
+      "unit_checks": {
+        "tests": 12,
+        "failures": 0,
+        "skipped": 0
+      },
+      "lint_issues_by_severity": {
+        "Warning": 537
+      },
+      "android_journeys": [
+        {
+          "classes": "com.example.dietpal.OriginalInformationTest,com.example.dietpal.OriginalJourneyTest",
+          "result": "passed, no skips"
+        }
+      ]
+    },
+    "flagship": {
+      "apk_sha256": "d60a3dfa5df063462f7b7f881bee2dae90e3d624cea835ca087411281b99b448",
+      "unit_checks": {
+        "tests": 30,
+        "failures": 0,
+        "skipped": 0
+      },
+      "lint_issues_by_severity": {
+        "Warning": 307
+      },
+      "android_journeys": [
+        {
+          "classes": "com.example.dietpal.vision.LocalVisionTest,com.example.dietpal.BalancedRecipeTest",
+          "result": "passed, no skips"
+        },
+        {
+          "classes": "com.example.dietpal.AuxiliaryJourneyTest,com.example.dietpal.FlagshipJourneyTest,com.example.dietpal.RecipeLiveTest,com.example.dietpal.InterfaceJourneyTest,com.example.dietpal.PlannerJourneyTest,com.example.dietpal.RangeSupplementJourneyTest,com.example.dietpal.DataControlsTest",
+          "result": "passed, no skips"
+        }
+      ]
+    }
+  },
+  "photo_model_sha256": "181938105e0eefd105961417e8da75903eacda102c4fce9ce90f50b97139a63c",
+  "photo_fixture_count": 1,
+  "nutrition_accuracy_established": false
+}

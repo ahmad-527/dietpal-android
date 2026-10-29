@@ -1,0 +1,9 @@
+<resources>
+  <item name="plan_start" type="id"/><item name="plan_horizon" type="id"/>
+  <item name="plan_diet" type="id"/><item name="plan_meal_count" type="id"/>
+  <item name="plan_kcal" type="id"/><item name="plan_protein" type="id"/>
+  <item name="plan_carbs" type="id"/><item name="plan_fat" type="id"/>
+  <item name="plan_exclusions" type="id"/><item name="plan_status" type="id"/>
+  <item name="plan_generate" type="id"/><item name="plan_summary" type="id"/>
+  <item name="plan_save" type="id"/><item name="recipe_suggested" type="id"/>
+<item name="plan_supplement" type="id"/><item name="supplement_name" type="id"/><item name="supplement_amount" type="id"/><item name="supplement_kcal" type="id"/><item name="supplement_protein" type="id"/><item name="supplement_carbs" type="id"/><item name="supplement_fat" type="id"/><item name="goal_energy" type="id"/><item name="goal_protein" type="id"/><item name="goal_carbs" type="id"/><item name="goal_fat" type="id"/><item name="goal_water" type="id"/><item name="food_fiber" type="id"/><item name="supplement_fiber" type="id"/></resources>

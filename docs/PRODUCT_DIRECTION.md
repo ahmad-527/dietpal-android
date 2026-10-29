@@ -34,4 +34,4 @@ These references describe competitor capabilities. They do not imply complete fe
 
 Food values and manually entered portions can be incomplete or inaccurate. The app will distinguish supplied label data, manual entries and calculated portion totals. Goals are user controlled. No clinical recommendations or verified health benefit are claimed.
 
-Photo-based calorie inference, medical coaching, paid subscriptions, social feeds, wearable/cloud synchronisation and app-store distribution are not promised by this release plan. They require separate product, data, platform and validation work.
+The expanded development scope includes editable on-device photo estimates, local reminders, workout records and personalised dated meal planning. Current implementation and limits are described in [Nutrition and planning](NUTRITION_AND_PLANNING.md) and [Interface design](INTERFACE_DESIGN.md). Runtime photo-model verification remains separate from food-table calculations. Medical coaching, paid subscriptions, social feeds, wearable/cloud synchronisation and app-store distribution require separate work and are not current verified capabilities.

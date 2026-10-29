@@ -1,0 +1,132 @@
+[
+  {
+    "id": "starter-chickpea-bowl",
+    "title": "Lemon chickpea bowl",
+    "category": "Vegetarian",
+    "area": "",
+    "image": "",
+    "sourceUrl": "",
+    "provider": "starter",
+    "ingredients": [
+      "1 tin cooked chickpeas, drained",
+      "1 cucumber, diced",
+      "2 tomatoes, diced",
+      "1 tbsp olive oil",
+      "1 tbsp lemon juice",
+      "2 tbsp chopped parsley"
+    ],
+    "steps": [
+      "Rinse and drain the chickpeas. Put them in a bowl with the cucumber, tomatoes and parsley.",
+      "Mix the lemon juice and olive oil, then toss through the bowl. Taste and season before serving."
+    ]
+  },
+  {
+    "id": "starter-oats",
+    "title": "Apple cinnamon oats",
+    "category": "Breakfast",
+    "area": "",
+    "image": "",
+    "sourceUrl": "",
+    "provider": "starter",
+    "ingredients": [
+      "50 g rolled oats",
+      "200 ml milk or oat drink",
+      "1 apple, diced",
+      "A pinch of cinnamon"
+    ],
+    "steps": [
+      "Put the oats, milk and diced apple in a small saucepan.",
+      "Bring to a gentle simmer and stir until the oats soften and the mixture reaches the texture you like. Add a splash of water if it becomes too thick.",
+      "Spoon into a bowl and sprinkle with cinnamon."
+    ]
+  },
+  {
+    "id": "starter-lentil-soup",
+    "title": "Tomato and lentil soup",
+    "category": "Vegan",
+    "area": "",
+    "image": "",
+    "sourceUrl": "",
+    "provider": "starter",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, diced",
+      "1 carrot, diced",
+      "100 g dried red lentils, rinsed",
+      "1 tin chopped tomatoes",
+      "600 ml vegetable stock"
+    ],
+    "steps": [
+      "Warm the oil in a saucepan and soften the onion and carrot, stirring regularly.",
+      "Add the rinsed lentils, tomatoes and stock. Bring to a simmer.",
+      "Simmer gently until the lentils and carrot are tender, stirring and adding water as needed. Taste and season before serving."
+    ]
+  },
+  {
+    "id": "starter-bean-toast",
+    "title": "Herby white bean toast",
+    "category": "Vegetarian",
+    "area": "",
+    "image": "",
+    "sourceUrl": "",
+    "provider": "starter",
+    "ingredients": [
+      "1 tin white beans, drained",
+      "1 tbsp olive oil",
+      "1 small garlic clove, finely chopped",
+      "1 tsp lemon juice",
+      "2 slices bread",
+      "1 tbsp chopped parsley"
+    ],
+    "steps": [
+      "Warm the oil in a pan. Add the garlic and stir briefly without letting it brown.",
+      "Add the drained beans and a splash of water. Heat until steaming, then roughly mash half the beans.",
+      "Toast the bread. Stir lemon juice and parsley into the beans and spoon over the toast."
+    ]
+  },
+  {
+    "id": "starter-sesame-noodles",
+    "title": "Peanut sesame noodles",
+    "category": "Pasta",
+    "area": "",
+    "image": "",
+    "sourceUrl": "",
+    "provider": "starter",
+    "ingredients": [
+      "100 g noodles",
+      "1 tbsp smooth peanut butter",
+      "1 tbsp soy sauce",
+      "1 tsp sesame oil",
+      "1 tsp lime juice",
+      "1 carrot, grated"
+    ],
+    "steps": [
+      "Cook the noodles following their package instructions. Reserve a little cooking water before draining.",
+      "Stir the peanut butter, soy sauce, sesame oil and lime juice together. Add a little warm cooking water to loosen.",
+      "Toss the noodles and carrot with the sauce. Serve while warm."
+    ]
+  },
+  {
+    "id": "starter-couscous",
+    "title": "Roasted vegetable couscous",
+    "category": "Vegan",
+    "area": "",
+    "image": "",
+    "sourceUrl": "",
+    "provider": "starter",
+    "ingredients": [
+      "1 courgette, diced",
+      "1 pepper, diced",
+      "1 tbsp olive oil",
+      "100 g couscous",
+      "150 ml hot vegetable stock",
+      "1 tbsp lemon juice"
+    ],
+    "steps": [
+      "Heat the oven to 200°C. Toss the courgette and pepper in the olive oil on a roasting tray.",
+      "Roast until the vegetables are tender, turning during cooking.",
+      "Put the couscous in a bowl, pour over the hot stock and cover. When the stock is absorbed, fluff with a fork.",
+      "Fold in the roasted vegetables and lemon juice. Taste and season before serving."
+    ]
+  }
+]

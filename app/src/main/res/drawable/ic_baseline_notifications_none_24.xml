@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Original vector artwork created for the October 2026 portfolio edition. -->
-<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="24dp" android:height="24dp" android:viewportWidth="500" android:viewportHeight="500">
-    <path android:fillColor="#00000000" android:strokeColor="#0F766E" android:strokeWidth="24" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M 125,350 H 375 L 340,295 V 210 Q 340,100 250,100 Q 160,100 160,210 V 295 Z M 210,400 Q 250,445 290,400"/>
-
-</vector>
