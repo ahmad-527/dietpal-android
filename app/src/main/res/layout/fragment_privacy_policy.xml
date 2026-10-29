@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SettingsFragment"
+    android:background="@color/black">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Privacy Policy"
+        android:textColor="#B10000"
+        android:textAllCaps="true"
+        android:textStyle="bold|italic"
+        android:textSize="40dp"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="100dp"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/baseline_policy_24"
+        android:layout_gravity="center"
+        />
+
+
+</FrameLayout>

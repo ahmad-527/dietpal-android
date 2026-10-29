@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:title="Home"
+            android:icon="@drawable/baseline_home_24"/>
+
+    </group>
+    <item android:title="GENERAL">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/bmicalc"
+                    android:title="BMI CACULATOR"
+                    android:icon="@drawable/baseline_calculate_24"/>
+                <item
+                    android:id="@+id/meals"
+                    android:title="Meals"
+                    android:icon="@drawable/baseline_food_bank_24"/>
+                <item
+                    android:id="@+id/settings"
+                    android:title="Settings"
+                    android:icon="@drawable/baseline_settings_24"/>
+                <item
+                    android:id="@+id/aboutUs"
+                    android:title="About Us"
+                    android:icon="@drawable/baseline_groups_2_24"/>
+                <item
+                    android:id="@+id/contact"
+                    android:title="Contact Us"
+                    android:icon="@drawable/baseline_contact_phone_24"/>
+                <item
+                    android:id="@+id/privacyPol"
+                    android:title="Privacy Policy"
+                    android:icon="@drawable/baseline_policy_24"/>
+            </group>
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,1008 @@
+{
+  "selected_original_files": 167,
+  "files": [
+    {
+      "path": "app/build.gradle.kts",
+      "original_sha256": "b575e4d37d8402a63f52d1932b9c680e7e946dc38cce5d69baaf0cecf13afdbc",
+      "public_sha256": "b575e4d37d8402a63f52d1932b9c680e7e946dc38cce5d69baaf0cecf13afdbc",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/proguard-rules.pro",
+      "original_sha256": "56fd960cf225f6ca40f982b13a5dbb0d8bc3dfde13ff76422825c6070d0a1890",
+      "public_sha256": "56fd960cf225f6ca40f982b13a5dbb0d8bc3dfde13ff76422825c6070d0a1890",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/dietpal/ExampleInstrumentedTest.java",
+      "original_sha256": "3a04aaf540d62e59ff443aa73b868ccc682481db14d92308872f700da0108c91",
+      "public_sha256": "3a04aaf540d62e59ff443aa73b868ccc682481db14d92308872f700da0108c91",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/AndroidManifest.xml",
+      "original_sha256": "b767a5d084a98869a416d2a281f5b78991634eb7f9db7fc8995378835016dcb5",
+      "public_sha256": "b767a5d084a98869a416d2a281f5b78991634eb7f9db7fc8995378835016dcb5",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/AboutUsFragment.java",
+      "original_sha256": "d52f77a4eee77d13d4f8405b10e3f0459383a14200b3a03b547636eea09c2159",
+      "public_sha256": "d52f77a4eee77d13d4f8405b10e3f0459383a14200b3a03b547636eea09c2159",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Adapters/IngredientsAdapter.java",
+      "original_sha256": "a312c4e3f5b271246284007212aea74f8b5626963446f1df7b17e34adc777459",
+      "public_sha256": "a312c4e3f5b271246284007212aea74f8b5626963446f1df7b17e34adc777459",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Adapters/InstructionStepAdapter.java",
+      "original_sha256": "ec2d5cbc1bc7da2be975a09dd19ba44945b9d6d26ad5eced8c90293ca1349914",
+      "public_sha256": "ec2d5cbc1bc7da2be975a09dd19ba44945b9d6d26ad5eced8c90293ca1349914",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Adapters/InstructionsAdapter.java",
+      "original_sha256": "d8afeaf4175c00734d672efcd604a72b439c63f5d6fb02cb51e7e4f61da9b30f",
+      "public_sha256": "d8afeaf4175c00734d672efcd604a72b439c63f5d6fb02cb51e7e4f61da9b30f",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Adapters/InstructionsEquipmentsAdapter.java",
+      "original_sha256": "2a355634aa55dadc782d3fc1292020be41aefa5e0086a1990ba4bb63794c2db3",
+      "public_sha256": "2a355634aa55dadc782d3fc1292020be41aefa5e0086a1990ba4bb63794c2db3",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Adapters/InstructionsIngredientsAdapter.java",
+      "original_sha256": "e1aae99deb9c024fe1f5b3ad23100c1243aca54c30219d58ed0063d43d8362c2",
+      "public_sha256": "e1aae99deb9c024fe1f5b3ad23100c1243aca54c30219d58ed0063d43d8362c2",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Adapters/RandomRecipeAdapter.java",
+      "original_sha256": "7ad3a41301e1c1940180eced1384c67abd11262f1672ffb3172961be0012044c",
+      "public_sha256": "7ad3a41301e1c1940180eced1384c67abd11262f1672ffb3172961be0012044c",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Adapters/SimilarRecipeAdapter.java",
+      "original_sha256": "b17a90c74598cee2be91729c815bbbfd5cb61841793ca12fb803b57830419ac6",
+      "public_sha256": "b17a90c74598cee2be91729c815bbbfd5cb61841793ca12fb803b57830419ac6",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/BmiFragment.java",
+      "original_sha256": "b8970601c7ba6134ffaf61aa20353102a5c16eaf683bf22f47bd89f015b04b47",
+      "public_sha256": "b8970601c7ba6134ffaf61aa20353102a5c16eaf683bf22f47bd89f015b04b47",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/ContactUsFragment.java",
+      "original_sha256": "ba6935bf97b72f003d17798dd1b9d593d1acb3dd1541d83f140b4be092e36e8d",
+      "public_sha256": "ba6935bf97b72f003d17798dd1b9d593d1acb3dd1541d83f140b4be092e36e8d",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/DatabaseHelper.java",
+      "original_sha256": "8ce38290ff38b6f53a735c939028f208c7b920ff49423739c91d651f1db0ce05",
+      "public_sha256": "8ce38290ff38b6f53a735c939028f208c7b920ff49423739c91d651f1db0ce05",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Gym.java",
+      "original_sha256": "18058d3833a21e8eefc68625a804f9ced1c4b88ed5d4ac5bfca58aa5778de9b9",
+      "public_sha256": "18058d3833a21e8eefc68625a804f9ced1c4b88ed5d4ac5bfca58aa5778de9b9",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/HomeFragment.java",
+      "original_sha256": "ed2e1eb347c60028c45a4e77171ac2266b9e424efffe3f9185d190e40faf73c4",
+      "public_sha256": "ed2e1eb347c60028c45a4e77171ac2266b9e424efffe3f9185d190e40faf73c4",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Listeners/InstructionsListener.java",
+      "original_sha256": "e846d9b24f5fbb4f86739c1254e995221b302072c3436fda63afe10ec6e4e71e",
+      "public_sha256": "e846d9b24f5fbb4f86739c1254e995221b302072c3436fda63afe10ec6e4e71e",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Listeners/RandomRecipeResponseListener.java",
+      "original_sha256": "a1a2d433fd6c4bb587eca127302b65c1670a00272e2df742ee705594072dcad3",
+      "public_sha256": "a1a2d433fd6c4bb587eca127302b65c1670a00272e2df742ee705594072dcad3",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Listeners/RecipeClickListener.java",
+      "original_sha256": "92130a9d7e49f3595a14dfac9c643c504ae488c10756ddf7e5a5f3527f4b2c0e",
+      "public_sha256": "92130a9d7e49f3595a14dfac9c643c504ae488c10756ddf7e5a5f3527f4b2c0e",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Listeners/RecipeDetailsListener.java",
+      "original_sha256": "ef656f6a0253746ec2fe54b29e9f991ada46e41fb06635ddc0a813ca4a9a153f",
+      "public_sha256": "ef656f6a0253746ec2fe54b29e9f991ada46e41fb06635ddc0a813ca4a9a153f",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Listeners/SimilarRecipesListener.java",
+      "original_sha256": "76ad0b6336425b3f9af492fbdfebd2a8182039cf1ba5664e901e48d7d64346f9",
+      "public_sha256": "76ad0b6336425b3f9af492fbdfebd2a8182039cf1ba5664e901e48d7d64346f9",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Login.java",
+      "original_sha256": "c2c800a385bd1b21e160f29019eff2c43227d6e0dd97513b32bdc325fc6d1ab5",
+      "public_sha256": "c2c800a385bd1b21e160f29019eff2c43227d6e0dd97513b32bdc325fc6d1ab5",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/MainActivity.java",
+      "original_sha256": "30c683281f7e68dc2599abbbfcb8f0c2209406e9e4da890044dda6b0632d33c8",
+      "public_sha256": "30c683281f7e68dc2599abbbfcb8f0c2209406e9e4da890044dda6b0632d33c8",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Models/AnalyzedInstruction.java",
+      "original_sha256": "108ea16cc68fa3ce4b3467ffb66414ee709ac52538434bd63b795ac22542e037",
+      "public_sha256": "108ea16cc68fa3ce4b3467ffb66414ee709ac52538434bd63b795ac22542e037",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Models/Equipment.java",
+      "original_sha256": "0d5ef960042fea91bd41dab21ad024148bfa33458c1638307314dcd450d3a0c3",
+      "public_sha256": "0d5ef960042fea91bd41dab21ad024148bfa33458c1638307314dcd450d3a0c3",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Models/ExtendedIngredient.java",
+      "original_sha256": "097ebadbf4d4d04dbf6bc8a5ccb881af87210d2a89bb12bf013ed4a8d1d17df9",
+      "public_sha256": "097ebadbf4d4d04dbf6bc8a5ccb881af87210d2a89bb12bf013ed4a8d1d17df9",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Models/Ingredient.java",
+      "original_sha256": "7ddbc0f75641ee2800c68e8efdda6a840343008756aa78ff147f572c9867b8f9",
+      "public_sha256": "7ddbc0f75641ee2800c68e8efdda6a840343008756aa78ff147f572c9867b8f9",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Models/InstructionsResponse.java",
+      "original_sha256": "a590fd7b93e34a5f03b4a032e1c4b9846d9b3f63bd3ef28285e8fe26c4658102",
+      "public_sha256": "a590fd7b93e34a5f03b4a032e1c4b9846d9b3f63bd3ef28285e8fe26c4658102",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Models/Length.java",
+      "original_sha256": "b0245f20819404964529d6a489842cbe8c5480b2c278124b7ca3a7d7491b4ba8",
+      "public_sha256": "b0245f20819404964529d6a489842cbe8c5480b2c278124b7ca3a7d7491b4ba8",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Models/Measures.java",
+      "original_sha256": "7ccf739c282344ed334056cd5bc31e35a59e95524ab43bee003423aea185e91d",
+      "public_sha256": "7ccf739c282344ed334056cd5bc31e35a59e95524ab43bee003423aea185e91d",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Models/Metric.java",
+      "original_sha256": "01a6cfaa856f671ada6e50067bf8f57a42f0d05cc0b829e181182c6a7c6274f4",
+      "public_sha256": "01a6cfaa856f671ada6e50067bf8f57a42f0d05cc0b829e181182c6a7c6274f4",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Models/ProductMatch.java",
+      "original_sha256": "c7f9640fa6787583556b48b9b85b3683402d890d213dc1b15916a1a820a239e8",
+      "public_sha256": "c7f9640fa6787583556b48b9b85b3683402d890d213dc1b15916a1a820a239e8",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Models/RandomRecipeApiResponse.java",
+      "original_sha256": "1946ab210737e09a2cf71f1629801847a7661cee14b14d47ff2acf84149dbe33",
+      "public_sha256": "1946ab210737e09a2cf71f1629801847a7661cee14b14d47ff2acf84149dbe33",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Models/Recipe.java",
+      "original_sha256": "18fcf09781560ee58d36b5e2e0dc3676d77a5ac22bb7e988f4ec8be5d070861f",
+      "public_sha256": "18fcf09781560ee58d36b5e2e0dc3676d77a5ac22bb7e988f4ec8be5d070861f",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Models/RecipeActivity.java",
+      "original_sha256": "5e036fed5c3cd801bd13a478311b50297d6fce403c2b6360a3fcedce843d78ab",
+      "public_sha256": "5e036fed5c3cd801bd13a478311b50297d6fce403c2b6360a3fcedce843d78ab",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Models/RecipeDetailsResponse.java",
+      "original_sha256": "f4608be85e51c76937a10db6adc40d017cae3ea736aa4aee3782ba7386c4c653",
+      "public_sha256": "f4608be85e51c76937a10db6adc40d017cae3ea736aa4aee3782ba7386c4c653",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Models/SimilarRecipeResponse.java",
+      "original_sha256": "2aa098ecd57417d21dbd0176d1dff5e97c25c222a96212abfdca765940a3a2e5",
+      "public_sha256": "2aa098ecd57417d21dbd0176d1dff5e97c25c222a96212abfdca765940a3a2e5",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Models/Step.java",
+      "original_sha256": "aeeb5c567f7dd1d84d6f4226235c0db2383a55266c0e045922270a4c6726a653",
+      "public_sha256": "aeeb5c567f7dd1d84d6f4226235c0db2383a55266c0e045922270a4c6726a653",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Models/Us.java",
+      "original_sha256": "8d87d76823b4f7c54df88ce4fcd84d1f0f79dc86d4d13cabc0f24fc4df1f07a3",
+      "public_sha256": "8d87d76823b4f7c54df88ce4fcd84d1f0f79dc86d4d13cabc0f24fc4df1f07a3",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Models/WinePairing.java",
+      "original_sha256": "e2a754c28f29cd2f614eeb23651f72454a4c23a85161648e0463ae383977e50c",
+      "public_sha256": "e2a754c28f29cd2f614eeb23651f72454a4c23a85161648e0463ae383977e50c",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/PrivacyPolicyFragment.java",
+      "original_sha256": "5a942ebeb43296e6b5b4f152d8aba7d6606edce4f47979b0baeb8125063583c3",
+      "public_sha256": "5a942ebeb43296e6b5b4f152d8aba7d6606edce4f47979b0baeb8125063583c3",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/ProfileFragment.java",
+      "original_sha256": "d0bedf8bd419ed9a9823634ddba52f8cd6dcaf3ffd33afb95bfaee72e4b1acf3",
+      "public_sha256": "d0bedf8bd419ed9a9823634ddba52f8cd6dcaf3ffd33afb95bfaee72e4b1acf3",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/RecipeDetailsActivity.java",
+      "original_sha256": "c724b0604766176043f89b389c95da48f3df923ab8b7b0a1a1bc60bdbc5ce3a1",
+      "public_sha256": "c724b0604766176043f89b389c95da48f3df923ab8b7b0a1a1bc60bdbc5ce3a1",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Register.java",
+      "original_sha256": "93cefacbd39e67120d4e84e1c5528c8a5d111d2e615606c6d8bbb065c4c79f30",
+      "public_sha256": "93cefacbd39e67120d4e84e1c5528c8a5d111d2e615606c6d8bbb065c4c79f30",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/RequestManager.java",
+      "original_sha256": "af9d5734c64b19aed1be4bcdc51d1e89898bb24b904df48859de27dab9a2ab9a",
+      "public_sha256": "af9d5734c64b19aed1be4bcdc51d1e89898bb24b904df48859de27dab9a2ab9a",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/SettingsFragment.java",
+      "original_sha256": "57efd620247e25a9b0c6721f64f6f2784e942a435c4f6241c4323c72b422af7e",
+      "public_sha256": "57efd620247e25a9b0c6721f64f6f2784e942a435c4f6241c4323c72b422af7e",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/Welcome.java",
+      "original_sha256": "f38b0ba1353037da6125d0ca59b66a22e6df39311c71fbe9cf123bbd720f9efa",
+      "public_sha256": "f38b0ba1353037da6125d0ca59b66a22e6df39311c71fbe9cf123bbd720f9efa",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/java/com/example/dietpal/workout.java",
+      "original_sha256": "7cc1f389f4180ab1eb2a0afeb638c437dd0d8faf20af86cf3d64bda38a1f0b83",
+      "public_sha256": "7cc1f389f4180ab1eb2a0afeb638c437dd0d8faf20af86cf3d64bda38a1f0b83",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/back.png",
+      "original_sha256": "f432a3bb3266a32dddbf130167403fc7802b0e5fbb6f380ef0c5aaeb3cc0758d",
+      "public_sha256": "f432a3bb3266a32dddbf130167403fc7802b0e5fbb6f380ef0c5aaeb3cc0758d",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/baseline_calculate_24.xml",
+      "original_sha256": "8e08f2edda58589933946c7b6c79604304690f1d1afed6b16e518688e31c1f17",
+      "public_sha256": "8e08f2edda58589933946c7b6c79604304690f1d1afed6b16e518688e31c1f17",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/baseline_close_24.xml",
+      "original_sha256": "a54cffcb410f612835e9a0e79c7e07cbea56cc73fa2752d39dfdd06fbc7b2829",
+      "public_sha256": "a54cffcb410f612835e9a0e79c7e07cbea56cc73fa2752d39dfdd06fbc7b2829",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/baseline_contact_phone_24.xml",
+      "original_sha256": "3ab1440268924139945d63e6998f859fc27bec791b41e8ef06ca2acb0b64f864",
+      "public_sha256": "3ab1440268924139945d63e6998f859fc27bec791b41e8ef06ca2acb0b64f864",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/baseline_food_bank_24.xml",
+      "original_sha256": "c2e11f84f7e350954408a277db05d46f767bff37b07e47cde398bc845eea6afa",
+      "public_sha256": "c2e11f84f7e350954408a277db05d46f767bff37b07e47cde398bc845eea6afa",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/baseline_groups_2_24.xml",
+      "original_sha256": "3ed295949b6099b6a2b5a14476c4e8914138f26115a1c3dce847a771bebca5ca",
+      "public_sha256": "3ed295949b6099b6a2b5a14476c4e8914138f26115a1c3dce847a771bebca5ca",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/baseline_home_24.xml",
+      "original_sha256": "d764089270dcda315f1978782c161328d71b7aed39de5b3f83c291586ddeed87",
+      "public_sha256": "d764089270dcda315f1978782c161328d71b7aed39de5b3f83c291586ddeed87",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/baseline_keyboard_arrow_right_24.xml",
+      "original_sha256": "d02edd0b3753dc88291755a26a2acc099ffe34afe4cd354cec32080653744763",
+      "public_sha256": "d02edd0b3753dc88291755a26a2acc099ffe34afe4cd354cec32080653744763",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/baseline_man_24.xml",
+      "original_sha256": "fefcfcb8ab4ae3a4f09be73eb1be22684c23914e99ba71d889a588c210962c43",
+      "public_sha256": "fefcfcb8ab4ae3a4f09be73eb1be22684c23914e99ba71d889a588c210962c43",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/baseline_policy_24.xml",
+      "original_sha256": "101d588c9f83ff327b337d944a2be28dea09c1843abcef54fab9606c913eb7c2",
+      "public_sha256": "101d588c9f83ff327b337d944a2be28dea09c1843abcef54fab9606c913eb7c2",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/baseline_settings_24.xml",
+      "original_sha256": "7cb8eecb458c5dd6cdeb48094833525c18702214be4df0a6ac073d8512f34951",
+      "public_sha256": "7cb8eecb458c5dd6cdeb48094833525c18702214be4df0a6ac073d8512f34951",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/baseline_sports_gymnastics_24.xml",
+      "original_sha256": "081ba7bbbeddcf3345fdad38580d5bb27d18f948028fab93c3597ad7a9d92273",
+      "public_sha256": "081ba7bbbeddcf3345fdad38580d5bb27d18f948028fab93c3597ad7a9d92273",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/beast_mode.jpg",
+      "original_sha256": "c4e7314b68ef014ad58672ad1866bc541303ad35e9aeec85e57f96d4b7d348cb",
+      "public_sha256": "c4e7314b68ef014ad58672ad1866bc541303ad35e9aeec85e57f96d4b7d348cb",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/black_background.jpg",
+      "original_sha256": "7aff7e7f129ae13e85fc02bf5db62095f60594a3810efe276b469f8657bf507a",
+      "public_sha256": "7aff7e7f129ae13e85fc02bf5db62095f60594a3810efe276b469f8657bf507a",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/bottom_nav_menu.xml",
+      "original_sha256": "27acb30535e82a30f10b15af8cda1e3e2448adf041951a0c9c21f16e3e3daed4",
+      "public_sha256": "27acb30535e82a30f10b15af8cda1e3e2448adf041951a0c9c21f16e3e3daed4",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/button_bg.xml",
+      "original_sha256": "9ab767f547db5d74981c4f6348aaae83c265ae710087c963e8634144dc93caea",
+      "public_sha256": "9ab767f547db5d74981c4f6348aaae83c265ae710087c963e8634144dc93caea",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/button_bg_round.xml",
+      "original_sha256": "9276847cd6f7c0f9d7156e62393164b67d6ab49b922618af7b53bf4af8dfeb91",
+      "public_sha256": "9276847cd6f7c0f9d7156e62393164b67d6ab49b922618af7b53bf4af8dfeb91",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/exersice_1.gif",
+      "original_sha256": "e15022cc8895f07c440558d4a0021ee759ea283c63db2e578a246713cb99f0d5",
+      "public_sha256": "e15022cc8895f07c440558d4a0021ee759ea283c63db2e578a246713cb99f0d5",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/exersice_10.gif",
+      "original_sha256": "cc7ca087ca06c530a1579cb3938706e192e95514c8e04257e05ad70062b06fc2",
+      "public_sha256": "cc7ca087ca06c530a1579cb3938706e192e95514c8e04257e05ad70062b06fc2",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/exersice_11.gif",
+      "original_sha256": "8c29dd48ffed8e58097857526202c1a057cc40c4ac6f1b708cde9c66ff058dd1",
+      "public_sha256": "8c29dd48ffed8e58097857526202c1a057cc40c4ac6f1b708cde9c66ff058dd1",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/exersice_12.gif",
+      "original_sha256": "3510809fed787efaac82713457201d287b301abfb0c59d9d3b948d91d3d71580",
+      "public_sha256": "3510809fed787efaac82713457201d287b301abfb0c59d9d3b948d91d3d71580",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/exersice_13.gif",
+      "original_sha256": "f6f938d2710f4cfbd0089c71c70c590f15a5f1b13beb86c98baed80087688c1f",
+      "public_sha256": "f6f938d2710f4cfbd0089c71c70c590f15a5f1b13beb86c98baed80087688c1f",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/exersice_14.gif",
+      "original_sha256": "328ac65f3678dfda17b47242beb552ed696ca9641fab048837e4cfae47ce9674",
+      "public_sha256": "328ac65f3678dfda17b47242beb552ed696ca9641fab048837e4cfae47ce9674",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/exersice_15.gif",
+      "original_sha256": "ff9ca34a23b4c280497f49f7feecfd142eca6070f5cb18347abdb26a0e1c1e4d",
+      "public_sha256": "ff9ca34a23b4c280497f49f7feecfd142eca6070f5cb18347abdb26a0e1c1e4d",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/exersice_2.gif",
+      "original_sha256": "e73ccf47c938b40a91d235682b95eb8645dbfbf644ea1884818e0a1a749a2315",
+      "public_sha256": "e73ccf47c938b40a91d235682b95eb8645dbfbf644ea1884818e0a1a749a2315",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/exersice_3.gif",
+      "original_sha256": "8fafa016c499504764d4dc049b976aaf35fd06891ecc2ece69ffed4c9278337f",
+      "public_sha256": "8fafa016c499504764d4dc049b976aaf35fd06891ecc2ece69ffed4c9278337f",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/exersice_4.gif",
+      "original_sha256": "34d4f87dfd61e7932df383cbed2e145f88a9d9abd0290287e83c0f1df49624be",
+      "public_sha256": "34d4f87dfd61e7932df383cbed2e145f88a9d9abd0290287e83c0f1df49624be",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/exersice_5.gif",
+      "original_sha256": "c3630c83bee1d3b932f4353ea55a4769477f76925b63f489c3d0ecc5a250306c",
+      "public_sha256": "c3630c83bee1d3b932f4353ea55a4769477f76925b63f489c3d0ecc5a250306c",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/exersice_6.gif",
+      "original_sha256": "30e44a05373b50876a35304421db785395a8a101fc34f4c348748e9a5b243ae4",
+      "public_sha256": "30e44a05373b50876a35304421db785395a8a101fc34f4c348748e9a5b243ae4",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/exersice_7.gif",
+      "original_sha256": "b9d8df010ed07a56bcbcd503a8b46c2d9bbd7424ca027a19c49ba2af6b5968a2",
+      "public_sha256": "b9d8df010ed07a56bcbcd503a8b46c2d9bbd7424ca027a19c49ba2af6b5968a2",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/exersice_8.gif",
+      "original_sha256": "704d80b1d7783427347499a107820d8573e96a3dd6bc7ff7aec795c70372a47c",
+      "public_sha256": "704d80b1d7783427347499a107820d8573e96a3dd6bc7ff7aec795c70372a47c",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/exersice_9.gif",
+      "original_sha256": "e6c4ca2648379a30e9c046825b5fe1f88bd182852d00cf2c2923f5eb4c715ffa",
+      "public_sha256": "e6c4ca2648379a30e9c046825b5fe1f88bd182852d00cf2c2923f5eb4c715ffa",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/final_icon.png",
+      "original_sha256": "09ea76020db9f4f95088ade8d7e1d1e391b9485e3cc00bd3b915df0075c1b9fa",
+      "public_sha256": "09ea76020db9f4f95088ade8d7e1d1e391b9485e3cc00bd3b915df0075c1b9fa",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/fitness.jpg",
+      "original_sha256": "7a5db0d2c228ca7113f909665a4bf307c81f1a33f0bc924679598df963d7f9bf",
+      "public_sha256": "7a5db0d2c228ca7113f909665a4bf307c81f1a33f0bc924679598df963d7f9bf",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/header_bg.xml",
+      "original_sha256": "f58c721b3d66d4a6e0f26b046586b0a8f18b3bde24a82a2d964f3d6698cfc25e",
+      "public_sha256": "f58c721b3d66d4a6e0f26b046586b0a8f18b3bde24a82a2d964f3d6698cfc25e",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/heart.jpg",
+      "original_sha256": "726024acaead5a8afb837a2777480a918f0f82dc061d6bf63badb8768c042a23",
+      "public_sha256": "726024acaead5a8afb837a2777480a918f0f82dc061d6bf63badb8768c042a23",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/howto.xml",
+      "original_sha256": "db1ef83f1437b09b04e3daa357fa56a96b1f30f39a58f3b88067c1c697790588",
+      "public_sha256": "db1ef83f1437b09b04e3daa357fa56a96b1f30f39a58f3b88067c1c697790588",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_baseline_home_24.xml",
+      "original_sha256": "2370e94a772adf44d8039dd8fb1e57c7d59be4ccfabbe509973f3d0e81568050",
+      "public_sha256": "2370e94a772adf44d8039dd8fb1e57c7d59be4ccfabbe509973f3d0e81568050",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_baseline_notifications_none_24.xml",
+      "original_sha256": "88bdfdfb13eb185f4de2b6bcaecd14276819f1ff04d3bf4da4f8189930528418",
+      "public_sha256": "88bdfdfb13eb185f4de2b6bcaecd14276819f1ff04d3bf4da4f8189930528418",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_baseline_settings_24.xml",
+      "original_sha256": "9b267b79f93c9feb25b7ab6e83b92d6dbe73092458dc28e3f9ce42ef098efea7",
+      "public_sha256": "9b267b79f93c9feb25b7ab6e83b92d6dbe73092458dc28e3f9ce42ef098efea7",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_launcher_background.xml",
+      "original_sha256": "ed423c73a6f40a4d2909f0901e60527b3a807cd59e1b5593bcaae1808b1c6321",
+      "public_sha256": "ed423c73a6f40a4d2909f0901e60527b3a807cd59e1b5593bcaae1808b1c6321",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_launcher_foreground.xml",
+      "original_sha256": "01d1a6a6c1234eb7fe270d097eb283d72b9c95ae5118886f1b6573aad280f1f7",
+      "public_sha256": "01d1a6a6c1234eb7fe270d097eb283d72b9c95ae5118886f1b6573aad280f1f7",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_like.xml",
+      "original_sha256": "80e51382ca8365d6ff98f791450c16bcb05913ac177e0ee2cd7fe86a99ae3849",
+      "public_sha256": "80e51382ca8365d6ff98f791450c16bcb05913ac177e0ee2cd7fe86a99ae3849",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_search.xml",
+      "original_sha256": "3a2667d43eb481218e463642ffafc9368f1585cbf5cb71a7836b04ec898e5066",
+      "public_sha256": "3a2667d43eb481218e463642ffafc9368f1585cbf5cb71a7836b04ec898e5066",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_servings.xml",
+      "original_sha256": "845180ed02c1b94b2f495fa527708946c6f1c85c7748220170351bcf94b97bef",
+      "public_sha256": "845180ed02c1b94b2f495fa527708946c6f1c85c7748220170351bcf94b97bef",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_time.xml",
+      "original_sha256": "64dcfbef07ab2b800fc80d9fa1b457ee50c3ebf189b6e9fda18f9dc51f093d2c",
+      "public_sha256": "64dcfbef07ab2b800fc80d9fa1b457ee50c3ebf189b6e9fda18f9dc51f093d2c",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/input_bg.xml",
+      "original_sha256": "31ab93ac97bb75c48d017ae8c279f69c4e731d74ec2cb88a14bc6153e33e80b4",
+      "public_sha256": "31ab93ac97bb75c48d017ae8c279f69c4e731d74ec2cb88a14bc6153e33e80b4",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ionic_ionicons_fitness_sharp.xml",
+      "original_sha256": "001394dc0dfbaf04dccee26701fac8d571df014b2154730e8b41168d0e1e15d1",
+      "public_sha256": "001394dc0dfbaf04dccee26701fac8d571df014b2154730e8b41168d0e1e15d1",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/peakpx.jpg",
+      "original_sha256": "28719f7c2d4fe20d2b18da033adc8243a1bee87b69080664cb5ae32f57001925",
+      "public_sha256": "28719f7c2d4fe20d2b18da033adc8243a1bee87b69080664cb5ae32f57001925",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/playstore.png",
+      "original_sha256": "ed7765bc4be25b6212df4e12f99b041e895a6a986f5bc2802e0ba9979b9c02df",
+      "public_sha256": "ed7765bc4be25b6212df4e12f99b041e895a6a986f5bc2802e0ba9979b9c02df",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/drawable/vegetable_and_fruits.jpg",
+      "original_sha256": "efec21f334ca869ec94b8d7a617eea440b1bb2274b31d52acd696f4a8af23f7d",
+      "public_sha256": "efec21f334ca869ec94b8d7a617eea440b1bb2274b31d52acd696f4a8af23f7d",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/activity_gym.xml",
+      "original_sha256": "d69d06606a2bb5b7051eb1fb9a7cdae67cb0a7449fa53a942242d3fa5b3103c6",
+      "public_sha256": "d69d06606a2bb5b7051eb1fb9a7cdae67cb0a7449fa53a942242d3fa5b3103c6",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/activity_login.xml",
+      "original_sha256": "3982d1acb2190dc9a11e4cd5ecacda944878dc36de297d9a54c82cd76c127d27",
+      "public_sha256": "3982d1acb2190dc9a11e4cd5ecacda944878dc36de297d9a54c82cd76c127d27",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/activity_main.xml",
+      "original_sha256": "96dc036edd08a9beb6c3c87a340e70e1ddb3849585fa05cdc578bdcb316e2d05",
+      "public_sha256": "96dc036edd08a9beb6c3c87a340e70e1ddb3849585fa05cdc578bdcb316e2d05",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/activity_recipe.xml",
+      "original_sha256": "4d272630e103b4727ab3768a7431f6a37bd9aa0e075dc308c5463cd64d6d102a",
+      "public_sha256": "4d272630e103b4727ab3768a7431f6a37bd9aa0e075dc308c5463cd64d6d102a",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/activity_recipe_details.xml",
+      "original_sha256": "1385ccf0ef15556781d7cd0dbee63673829d85e635ee816d378b5b0c6f7eec0c",
+      "public_sha256": "1385ccf0ef15556781d7cd0dbee63673829d85e635ee816d378b5b0c6f7eec0c",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/activity_register.xml",
+      "original_sha256": "b99e6a6f8d5da6439de6c333601346495e9d32f533c2ee4a47099c41813056c7",
+      "public_sha256": "b99e6a6f8d5da6439de6c333601346495e9d32f533c2ee4a47099c41813056c7",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/activity_welcome.xml",
+      "original_sha256": "3bb60995f205295a1b43ac837e896c081d7af75dd4b0a3f93bb37a6030ac00ca",
+      "public_sha256": "3bb60995f205295a1b43ac837e896c081d7af75dd4b0a3f93bb37a6030ac00ca",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/activity_workout.xml",
+      "original_sha256": "cea89a8957f89f2870d4ce61c179fbd0bb62caaa49b311f022f740d8acc61160",
+      "public_sha256": "cea89a8957f89f2870d4ce61c179fbd0bb62caaa49b311f022f740d8acc61160",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/bench.xml",
+      "original_sha256": "d0fbf5142fd662f49cba673162e0fa21b0f04423cd061d91cd1c36c72fcd7a85",
+      "public_sha256": "d0fbf5142fd662f49cba673162e0fa21b0f04423cd061d91cd1c36c72fcd7a85",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/bicycle.xml",
+      "original_sha256": "ab0ae4b64190f060c41f7d6b7b7162a575dea1b84455889eccffcd273cfdfefa",
+      "public_sha256": "ab0ae4b64190f060c41f7d6b7b7162a575dea1b84455889eccffcd273cfdfefa",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/bridge.xml",
+      "original_sha256": "6f355886042e9073eb1869a864b9ca96b5be583279816329740fa6a4eaa22113",
+      "public_sha256": "6f355886042e9073eb1869a864b9ca96b5be583279816329740fa6a4eaa22113",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/crunches.xml",
+      "original_sha256": "064ca6dc2655d2de48416e6336538ad5bc33abb946ae32d3c900698d01d9c9ae",
+      "public_sha256": "064ca6dc2655d2de48416e6336538ad5bc33abb946ae32d3c900698d01d9c9ae",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/fragment_about_us.xml",
+      "original_sha256": "4b0e7dfb85aacbae092a17f938d09f3fa8b083a758db49ac485bd3976c45c6f1",
+      "public_sha256": "4b0e7dfb85aacbae092a17f938d09f3fa8b083a758db49ac485bd3976c45c6f1",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/fragment_bmi.xml",
+      "original_sha256": "dc78b2e66e0ad511cf401c448ab172f7c4f5b708f024645f4154e10fefc59317",
+      "public_sha256": "dc78b2e66e0ad511cf401c448ab172f7c4f5b708f024645f4154e10fefc59317",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/fragment_contact_us.xml",
+      "original_sha256": "44e3185ba134af6d8ac4d1114bfdeda9bd5b094c2f37038e36dc1618d5a41405",
+      "public_sha256": "44e3185ba134af6d8ac4d1114bfdeda9bd5b094c2f37038e36dc1618d5a41405",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/fragment_home.xml",
+      "original_sha256": "13fb3825c8d44d86f8743ca88e79027a99ce22c5b00532ede8f948b6d3914d47",
+      "public_sha256": "13fb3825c8d44d86f8743ca88e79027a99ce22c5b00532ede8f948b6d3914d47",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/fragment_privacy_policy.xml",
+      "original_sha256": "4be35a138ba51e204f6652576583723724655fa2b97849ea6dc9f090c48688cd",
+      "public_sha256": "4be35a138ba51e204f6652576583723724655fa2b97849ea6dc9f090c48688cd",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/fragment_profile.xml",
+      "original_sha256": "4abca85ffc58f8e77afc229e87f2156af25dafca5e046d870d118d88f0b8cc14",
+      "public_sha256": "4abca85ffc58f8e77afc229e87f2156af25dafca5e046d870d118d88f0b8cc14",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/fragment_settings.xml",
+      "original_sha256": "397a750a2008a725e5f995f40519720ff15efa6f49b4aeee4b186ecd6931b70f",
+      "public_sha256": "397a750a2008a725e5f995f40519720ff15efa6f49b4aeee4b186ecd6931b70f",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/fragment_work.xml",
+      "original_sha256": "4c2676b6c3d9f1b1d6d93353305e7d2cf4a9841dbaaaece30d1d1f9814b3ec68",
+      "public_sha256": "4c2676b6c3d9f1b1d6d93353305e7d2cf4a9841dbaaaece30d1d1f9814b3ec68",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/header.xml",
+      "original_sha256": "604be040c3dd789109fd165b22a9dab9a91487d8936bc7ef062b00b98b7c6c0f",
+      "public_sha256": "604be040c3dd789109fd165b22a9dab9a91487d8936bc7ef062b00b98b7c6c0f",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/heels.xml",
+      "original_sha256": "fcb80e77370d665e785367808b6a42324d100211417af06168eaa2d1c5c66171",
+      "public_sha256": "fcb80e77370d665e785367808b6a42324d100211417af06168eaa2d1c5c66171",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/legcrunches.xml",
+      "original_sha256": "17d087472019779ef04e03790764576757410b6617ca194e6ed091edd13621c2",
+      "public_sha256": "17d087472019779ef04e03790764576757410b6617ca194e6ed091edd13621c2",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/legplank.xml",
+      "original_sha256": "846b05b78a0620a2dc3e1c19ceb6457b6830646edd810b3fe8cd14de710bfcfc",
+      "public_sha256": "846b05b78a0620a2dc3e1c19ceb6457b6830646edd810b3fe8cd14de710bfcfc",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/legraises.xml",
+      "original_sha256": "77b61590bf2a809aaf0e924891f97b6e763cf443a095d56568a429fc5a14c850",
+      "public_sha256": "77b61590bf2a809aaf0e924891f97b6e763cf443a095d56568a429fc5a14c850",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/list_instructions.xml",
+      "original_sha256": "7960e0bd14eaa356a2a98d0da0809ec1edfba0f09184a6f3f4d379fb6e0411cf",
+      "public_sha256": "7960e0bd14eaa356a2a98d0da0809ec1edfba0f09184a6f3f4d379fb6e0411cf",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/list_instructions_step_items.xml",
+      "original_sha256": "a41b50b5c53c304946755d38762156135f648fd819ca83da0ef98fce09420676",
+      "public_sha256": "a41b50b5c53c304946755d38762156135f648fd819ca83da0ef98fce09420676",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/list_instructions_steps.xml",
+      "original_sha256": "712bc4f20540f3718fd7432286e111edd00a5c6557b5579c21516864b8208983",
+      "public_sha256": "712bc4f20540f3718fd7432286e111edd00a5c6557b5579c21516864b8208983",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/list_meal_ingredients.xml",
+      "original_sha256": "692cae8880d79aa399a4ec443939b1fce94bd3035a89f69431fd8506e4882c2e",
+      "public_sha256": "692cae8880d79aa399a4ec443939b1fce94bd3035a89f69431fd8506e4882c2e",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/list_random_recipe.xml",
+      "original_sha256": "b6ac7f076c4b64bf3fee8d0079fd527bfb5f4955e461a07bd8851b95460ce26d",
+      "public_sha256": "b6ac7f076c4b64bf3fee8d0079fd527bfb5f4955e461a07bd8851b95460ce26d",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/list_similar_recipe.xml",
+      "original_sha256": "6f07ecbeab843f968c0f6f7ef1bb239b14bb5272ab0d9ba3c2a72d8a9e157f1d",
+      "public_sha256": "6f07ecbeab843f968c0f6f7ef1bb239b14bb5272ab0d9ba3c2a72d8a9e157f1d",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/mountain.xml",
+      "original_sha256": "7bdf539122d68e83195b352ca3e81067ea90f85f7f9c3dfaa3eca70567ee5dd8",
+      "public_sha256": "7bdf539122d68e83195b352ca3e81067ea90f85f7f9c3dfaa3eca70567ee5dd8",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/plank.xml",
+      "original_sha256": "d55190498d09e11ea44bb94c7684967c4582c33a3c88880d9440879b517b07a7",
+      "public_sha256": "d55190498d09e11ea44bb94c7684967c4582c33a3c88880d9440879b517b07a7",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/russian.xml",
+      "original_sha256": "1a09d609b00c07cbfc76c324503c2e60f422bcff0222e614452598c715599e24",
+      "public_sha256": "1a09d609b00c07cbfc76c324503c2e60f422bcff0222e614452598c715599e24",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/situp.xml",
+      "original_sha256": "f306b14e3073afb313bf7d405ed9f63e747a566d82278333c26c3e6687df729c",
+      "public_sha256": "f306b14e3073afb313bf7d405ed9f63e747a566d82278333c26c3e6687df729c",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/spinner_inner_text.xml",
+      "original_sha256": "be78ab4002c7dab6f4c26dfb31f5658a2dd834a903350ea5c4907ae9cee52c89",
+      "public_sha256": "be78ab4002c7dab6f4c26dfb31f5658a2dd834a903350ea5c4907ae9cee52c89",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/spinner_text.xml",
+      "original_sha256": "319c1404abbaccc625cafd144bcfbc9d52cad2138ddaa394cdf5bf017d727466",
+      "public_sha256": "319c1404abbaccc625cafd144bcfbc9d52cad2138ddaa394cdf5bf017d727466",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/toetouch.xml",
+      "original_sha256": "e70406050ce8215495175b5ac8862477ae9afd93f5c2cf71e7aa65cde64dee16",
+      "public_sha256": "e70406050ce8215495175b5ac8862477ae9afd93f5c2cf71e7aa65cde64dee16",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/verticalleg.xml",
+      "original_sha256": "5e9d63bbb8f8fb2a391b87e282a58d668b39109b46b7bdf2f7502fb2638e2825",
+      "public_sha256": "5e9d63bbb8f8fb2a391b87e282a58d668b39109b46b7bdf2f7502fb2638e2825",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/layout/vups.xml",
+      "original_sha256": "80bf57417f85ca93aaf3b93aa8863c77aa64766aa3ad61edb91785983b95961e",
+      "public_sha256": "80bf57417f85ca93aaf3b93aa8863c77aa64766aa3ad61edb91785983b95961e",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/menu/item_file.xml",
+      "original_sha256": "911633657bddfd2164684361217c84a080d7a46a99015f53f3facf71e1eb59db",
+      "public_sha256": "911633657bddfd2164684361217c84a080d7a46a99015f53f3facf71e1eb59db",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml",
+      "original_sha256": "88f7653499ef524126ea5018a99baf9cc3269e7e584d6205dfdd76db39f39cc0",
+      "public_sha256": "88f7653499ef524126ea5018a99baf9cc3269e7e584d6205dfdd76db39f39cc0",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml",
+      "original_sha256": "88f7653499ef524126ea5018a99baf9cc3269e7e584d6205dfdd76db39f39cc0",
+      "public_sha256": "88f7653499ef524126ea5018a99baf9cc3269e7e584d6205dfdd76db39f39cc0",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/mipmap-hdpi/ic_launcher.webp",
+      "original_sha256": "dd00996198640ed28fbc09cdcd7a3807cf8707f3eb255b659634da3ca6a6ff01",
+      "public_sha256": "dd00996198640ed28fbc09cdcd7a3807cf8707f3eb255b659634da3ca6a6ff01",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/mipmap-hdpi/ic_launcher_round.webp",
+      "original_sha256": "1ed73f5341a69d3b41c7e02e126803f50cc8c3284adf4bbb737f0c93577aef07",
+      "public_sha256": "1ed73f5341a69d3b41c7e02e126803f50cc8c3284adf4bbb737f0c93577aef07",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/mipmap-mdpi/ic_launcher.webp",
+      "original_sha256": "846219e6f72fe9a6c104ca8919cbee36a101e7d2ff8da9da67b689a5888f060d",
+      "public_sha256": "846219e6f72fe9a6c104ca8919cbee36a101e7d2ff8da9da67b689a5888f060d",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/mipmap-mdpi/ic_launcher_round.webp",
+      "original_sha256": "4e2c58b91de01130e6479e00cbbaaf6e77cd961dd2c8e303cf13cd077fa92632",
+      "public_sha256": "4e2c58b91de01130e6479e00cbbaaf6e77cd961dd2c8e303cf13cd077fa92632",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/mipmap-xhdpi/ic_launcher.webp",
+      "original_sha256": "398340dad816fc9a6338cb151a8cf1e45b926f9bfb70628b24c4bd2523cc94d4",
+      "public_sha256": "398340dad816fc9a6338cb151a8cf1e45b926f9bfb70628b24c4bd2523cc94d4",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp",
+      "original_sha256": "91b490aef86574901137f0a252272e1f1add99c1ad709e0696ed68929b88d261",
+      "public_sha256": "91b490aef86574901137f0a252272e1f1add99c1ad709e0696ed68929b88d261",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxhdpi/ic_launcher.webp",
+      "original_sha256": "58ae87fa0c5b5d1562d27fd648d2c061553fe20e3ed570bde588162d01ea7a27",
+      "public_sha256": "58ae87fa0c5b5d1562d27fd648d2c061553fe20e3ed570bde588162d01ea7a27",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp",
+      "original_sha256": "3009fad079f5772f30ecd767f98924367fbe0f81c30048d672d4fda2d5ca7d12",
+      "public_sha256": "3009fad079f5772f30ecd767f98924367fbe0f81c30048d672d4fda2d5ca7d12",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
+      "original_sha256": "f98fef5bc3bfe5b65692c40ad1cbae2bec4faf9f1b249c397626740db71b62d8",
+      "public_sha256": "f98fef5bc3bfe5b65692c40ad1cbae2bec4faf9f1b249c397626740db71b62d8",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
+      "original_sha256": "5faf033745c8c882c43bb1b372d4e4a5890caec63d9892a2e756c954108b85dc",
+      "public_sha256": "5faf033745c8c882c43bb1b372d4e4a5890caec63d9892a2e756c954108b85dc",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/values-night/themes.xml",
+      "original_sha256": "041759e89c94c06abd6e62c807bc702cc00f25bfc9bf3ff01b8dcb18b6ac2cf7",
+      "public_sha256": "041759e89c94c06abd6e62c807bc702cc00f25bfc9bf3ff01b8dcb18b6ac2cf7",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/values/colors.xml",
+      "original_sha256": "efb70d7499549a57cea32b00e790ef0632cb0c95cdaeefd16903c8cd12c889e4",
+      "public_sha256": "efb70d7499549a57cea32b00e790ef0632cb0c95cdaeefd16903c8cd12c889e4",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/values/strings.xml",
+      "original_sha256": "7af75a1faa0f69a80138b40c02a31bc1f77b49f657acce0f88877f42619202be",
+      "public_sha256": "d38ac4ae20cad27a0eb23ed864b0cbee9b2239246f5458b164af65be7d3c885f",
+      "credential_redacted": true
+    },
+    {
+      "path": "app/src/main/res/values/themes.xml",
+      "original_sha256": "c9358245d0732eac2827891fa0635919a758fb61fc032573167be622ed9e0565",
+      "public_sha256": "c9358245d0732eac2827891fa0635919a758fb61fc032573167be622ed9e0565",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/xml/backup_rules.xml",
+      "original_sha256": "9f7e4c84c8fd2c81478d15962383f47cc6ff55d62abcd40c8ffa6fc08a8c35b7",
+      "public_sha256": "9f7e4c84c8fd2c81478d15962383f47cc6ff55d62abcd40c8ffa6fc08a8c35b7",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/main/res/xml/data_extraction_rules.xml",
+      "original_sha256": "cb1fc47ab4a984530ed60e0e6ee638929c3038290e7e7e0b4b03a3a30fbe7381",
+      "public_sha256": "cb1fc47ab4a984530ed60e0e6ee638929c3038290e7e7e0b4b03a3a30fbe7381",
+      "credential_redacted": false
+    },
+    {
+      "path": "app/src/test/java/com/example/dietpal/ExampleUnitTest.java",
+      "original_sha256": "7cd463b9fba27774608e1d8cb9e78e46cda6e7aef3f09aae35cc180623242b02",
+      "public_sha256": "7cd463b9fba27774608e1d8cb9e78e46cda6e7aef3f09aae35cc180623242b02",
+      "credential_redacted": false
+    },
+    {
+      "path": "build.gradle.kts",
+      "original_sha256": "2df5bd1946039fd989e14de08cb8a6a69da5c825290024a8c3fcb22bb6af4264",
+      "public_sha256": "2df5bd1946039fd989e14de08cb8a6a69da5c825290024a8c3fcb22bb6af4264",
+      "credential_redacted": false
+    },
+    {
+      "path": "gradle.properties",
+      "original_sha256": "8e23982b54de00b8b69584b1852e8733cca0d1be64e4dc7f83a5cb354e338578",
+      "public_sha256": "8e23982b54de00b8b69584b1852e8733cca0d1be64e4dc7f83a5cb354e338578",
+      "credential_redacted": false
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.jar",
+      "original_sha256": "e996d452d2645e70c01c11143ca2d3742734a28da2bf61f25c82bdc288c9e637",
+      "public_sha256": "e996d452d2645e70c01c11143ca2d3742734a28da2bf61f25c82bdc288c9e637",
+      "credential_redacted": false
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.properties",
+      "original_sha256": "ab9f5a7737165e3368e65d08ab58fd673967aff8e2039fa6772b330e7b6f88ac",
+      "public_sha256": "ab9f5a7737165e3368e65d08ab58fd673967aff8e2039fa6772b330e7b6f88ac",
+      "credential_redacted": false
+    },
+    {
+      "path": "gradlew",
+      "original_sha256": "63135287117a1e6d12c84580f1f49c61d1ba02218ecd28660605e97f976e7d65",
+      "public_sha256": "63135287117a1e6d12c84580f1f49c61d1ba02218ecd28660605e97f976e7d65",
+      "credential_redacted": false
+    },
+    {
+      "path": "gradlew.bat",
+      "original_sha256": "af835f98787e9269af5a046edcb821a592fed372139df7b947b471a63cfc236b",
+      "public_sha256": "af835f98787e9269af5a046edcb821a592fed372139df7b947b471a63cfc236b",
+      "credential_redacted": false
+    },
+    {
+      "path": "settings.gradle.kts",
+      "original_sha256": "66b1044245584a3ba953165835fc258adf6e50b4ad5c06d0c3beb84f91620ce4",
+      "public_sha256": "66b1044245584a3ba953165835fc258adf6e50b4ad5c06d0c3beb84f91620ce4",
+      "credential_redacted": false
+    }
+  ],
+  "scope": "Frozen coursework snapshot; only the archived API credential was redacted. Local build/IDE files are excluded. Runtime fixes belong to original/ experience build."
+}

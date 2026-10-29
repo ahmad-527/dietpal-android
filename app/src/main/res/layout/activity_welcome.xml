@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/peakpx"
+    tools:context=".Welcome">
+
+    <ImageView
+        android:id="@+id/ImgClose"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.905"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.04"
+        app:srcCompat="@drawable/baseline_close_24" />
+
+    <Button
+        android:id="@+id/Gstrt"
+        android:layout_width="285dp"
+        android:layout_height="64dp"
+        android:backgroundTint="#BA0B0B"
+        android:text="GET STARTED"
+        android:textSize="25dp"
+        android:textColor="@color/white"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.86" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="105dp"
+        android:layout_height="30dp"
+        android:paddingTop="4dp"
+        android:text="Already a User?"
+        android:textColor="@color/white"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.326"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.932" />
+
+    <Button
+        android:id="@+id/logIn"
+        android:layout_width="143dp"
+        android:layout_height="56dp"
+        android:backgroundTint="#000000"
+        android:padding="0dp"
+        android:text="Log In"
+        android:textColor="@color/white"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.764"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.945" />
+
+    <TextView
+        android:id="@+id/wlttl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DIET PAL"
+        android:textColor="#FFFFFF"
+        android:textSize="40dp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.11" />
+
+    <TextView
+        android:id="@+id/slogn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="A Healthier Lifestyle Awaits"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.181" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
