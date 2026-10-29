@@ -1,59 +1,28 @@
 # DietPal
 
-A Java Android coursework app combining local registration and login, a BMI calculator, timed workout screens and optional Spoonacular recipe browsing. Originally developed during my bachelor's studies at **Majan University College** for **Mobile Application Development, 2023–24**.
+An undergraduate Android project evolving into a practical meal-planning and nutrition-tracking app.
 
-**My work:** the original Android application implementation. This repository is a portfolio edition prepared in October 2026; the original submission is preserved privately. The fixes, replacement artwork and added tests are recorded in [Portfolio changes](docs/PORTFOLIO_CHANGES.md).
+## Two editions
 
-## Screens
+| Edition | Purpose | Current status |
+| --- | --- | --- |
+| **Original** | Preserve the coursework interface, workout GIFs, photos and application flows. | Restoration and functional verification in progress. Required credential redactions and runtime fixes will be documented. |
+| **Flagship** | A redesigned app for everyday meal logging, nutrition tracking and planning. | In development. Features will be marked complete only after implementation and verification. |
 
-Screenshots show this edition running on an Android 14 emulator with synthetic demonstration inputs.
+Both editions will be available from this repository, with separate build/install instructions and screenshots. They will use different Android application IDs so they can be installed together.
 
-<img src="docs/screenshots/home.png" width="240" alt="DietPal home screen with BMI, workout and recipe sections" /> <img src="docs/screenshots/bmi.png" width="240" alt="BMI calculation using synthetic inputs of 70 kg and 175 cm" /> <img src="docs/screenshots/workout.png" width="240" alt="Workout illustration and start-pause timer" />
+## Current public source: portfolio v1
 
-## What works
+The source currently at the repository root is the **initial portfolio preparation**, published before the two-edition upgrade. It includes changes to the coursework app and is **not the untouched original or the completed flagship**. Its frozen snapshot is available at [portfolio-v1](https://github.com/ahmad-527/dietpal-android/tree/portfolio-v1).
 
-| Area | Behaviour |
-| --- | --- |
-| Local accounts | Registration, duplicate-username checking and login using an on-device SQLite database. Passwords use individually salted PBKDF2-HMAC-SHA256 hashes. |
-| BMI calculation | Kilograms/centimetres input, decimal calculation and rejection of invalid, zero, negative or non-finite values. |
-| Workouts | Fifteen exercise screens, original static vector illustrations, countdown start/pause and next-exercise navigation. Timers stop when the workout screen is left. |
-| Recipes | Retrofit client for random recipes, recipe details, instructions and similar recipes. A developer-supplied Spoonacular key is required. The unconfigured state displays a message and closes loading indicators. |
-| Navigation | Home cards, drawer navigation and logout that clears the previous activity stack. |
+**Recipe limitation:** this initial version requires a developer-supplied Spoonacular key. Its recipe browsing and details were not verified against live provider responses. Testing the missing-key message did not establish that the feature works end to end. The replacement recipe flow is being implemented with a documented educational API and an offline collection.
 
-The app demonstrates Android activities/fragments, XML layouts, SQLite, asynchronous work, HTTP/API integration and automated testing. It has no hosted account service, nutrition-tracking history or personalised diet model. Unfinished settings/profile functionality is not presented as a supported feature.
+The initial build, 17 host tests and one Android 14 emulator workflow passed; that workflow checked the missing-key state, not successful recipe browsing. Its [validation record](docs/VALIDATION.md) applies only to portfolio v1. It has 197 lint warnings and no physical-device validation.
 
-## Build and run
+## Flagship direction
 
-Use **JDK 17**, Android SDK **platform 34**, SDK **build-tools 33.0.1** and Android **8.0 / API 26 or newer**. The repository includes the Gradle 8.0 wrapper with a pinned distribution checksum and Android Gradle Plugin 8.1.2.
+The target user is an adult who wants a simple daily food diary and a practical way to plan meals. The competitive baseline and implementation priorities are recorded in [Product direction](docs/PRODUCT_DIRECTION.md).
 
-1. Open the project in Android Studio, or configure the SDK in an ignored `local.properties` file using `sdk.dir=/absolute/path/to/Android/Sdk`.
-2. Optionally copy `secrets.properties.example` to `secrets.properties` and set `spoonacularApiKey` to your own [Spoonacular API key](https://spoonacular.com/food-api). Registration, BMI and workouts run without it. Never commit that file.
-3. Build and check the project:
+Planned core: calorie and macro logging, portion-aware food entry, food and barcode lookup, recipe browsing/search/details, saved meals, meal planning, shopping lists, water tracking, progress history and local data controls. These are development targets, not claims about the current build.
 
-```powershell
-.\gradlew.bat assembleDebug lintDebug testDebugUnitTest
-```
-
-On macOS/Linux use `./gradlew` instead. The debug APK is generated under `app/build/outputs/apk/debug/`. Install it on an emulator or your development device through Android Studio.
-
-To run the emulator-only UI smoke test, start an Android 14 / API 34 emulator and run:
-
-```powershell
-.\gradlew.bat connectedDebugAndroidTest
-```
-
-The smoke test creates and removes its own synthetic account. Its configuration assumes an empty recipe key so that it makes no live Spoonacular requests. It deliberately skips physical devices. Use a dedicated development emulator.
-
-## Verification and limits
-
-The APK build passed, **17 host regression tests passed**, and the complete workflow passed on an **AOSP Android 14 / API 34 emulator**. Lint completed with **zero errors and 197 warnings**, mainly retained coursework layout/resource/style items. One narrowly scoped exception covers an unused notification API inside Picasso; DietPal does not post notifications.
-
-See [Validation](docs/VALIDATION.md) for the tested flows and remaining limits. No physical-device test, live recipe API response, API quota check or production-security assessment is claimed. The local account system is an educational demonstration. BMI is an arithmetic feature; this project does not establish clinical or fitness effectiveness.
-
-An API key embedded in a client APK can be extracted. The ignored configuration prevents accidental source-control disclosure; it does not turn a mobile client into a secure secret store. Use your own development key and provider terms.
-
-## Provenance
-
-The original configured key, local SDK paths, IDE caches, build outputs, database files and academic cover details are excluded. Workout GIFs and photos whose reuse permissions were unknown have been replaced with original vector resources. Runtime recipe data/images are provided by the configured external service and are not included here.
-
-[Portfolio changes](docs/PORTFOLIO_CHANGES.md) distinguishes the historical app from this edition. [Third-party notices](docs/THIRD_PARTY_NOTICES.md) identifies the build wrapper and dependencies. No repository-wide licence has been selected; upstream components retain their own terms.
+The original coursework was developed at **Majan University College** for **Mobile Application Development, 2023–24**. The later portfolio and flagship work is documented separately. Credentials, local SDK paths and private academic records are excluded. Upstream components retain their terms; no repository-wide source licence has been selected.
